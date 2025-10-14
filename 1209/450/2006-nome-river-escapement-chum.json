@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      16,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      63,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      329,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      460,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      304,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      13,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      320,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      754,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      184,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      115,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      284,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      58,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      64,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      415,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      311,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      375,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      30,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      84,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      67,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      151,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      139,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      8,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      10,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      0,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      6,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      14,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      12,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      44,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      51,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      57,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      53,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      38,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      42,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      29,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      18,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "450",
+    "year": "2006",
+    "totalRecords": 41,
+    "totalCount": 4940,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

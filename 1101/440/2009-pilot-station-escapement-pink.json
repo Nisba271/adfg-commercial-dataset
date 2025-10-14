@@ -1,0 +1,310 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      0,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      321,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      216,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      757,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      462,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1143,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      305,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      994,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      609,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      663,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      654,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2041,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1188,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      910,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      188,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3376,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      317,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      930,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1712,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1610,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      4093,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2298,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      154,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1076,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      489,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      459,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      145,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2144,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      191,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2769,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2003,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      312,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "440",
+    "year": "2009",
+    "totalRecords": 32,
+    "totalCount": 34529,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

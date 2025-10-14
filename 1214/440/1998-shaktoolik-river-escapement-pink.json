@@ -1,0 +1,328 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      12,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      48,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      27,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      90,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      240,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      617,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      602,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      573,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1562,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5554,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2979,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1536,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      261,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1087,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1917,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      16109,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6368,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5820,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5487,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      11705,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      12806,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      13896,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1652,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5327,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6835,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8338,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      10078,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9740,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9446,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9396,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "440",
+    "year": "1998",
+    "totalRecords": 34,
+    "totalCount": 150121,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

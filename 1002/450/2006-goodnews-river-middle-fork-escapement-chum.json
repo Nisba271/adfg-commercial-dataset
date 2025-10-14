@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      32,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      86,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      141,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      140,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      324,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      695,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1099,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      901,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1754,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1004,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1259,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2411,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      543,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      403,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2139,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1369,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4211,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1945,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      485,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      866,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1165,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1584,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1858,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3228,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1588,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2232,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1711,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3065,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1812,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      557,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1316,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      660,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      833,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      812,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      819,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      577,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      797,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1083,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1148,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      705,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      535,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      497,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      451,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      320,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      203,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      605,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      949,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      345,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      342,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      252,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      220,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      85,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      117,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      46,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      33,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      34,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      17,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      50,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      31,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      14,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      8,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      12,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "450",
+    "year": "2006",
+    "totalRecords": 68,
+    "totalCount": 54542,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

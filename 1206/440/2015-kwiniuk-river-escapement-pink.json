@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      15,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      42,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      18,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      24,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      48,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      114,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      150,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      543,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      885,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1065,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      156,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      234,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      858,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      8646,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      567,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      726,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6480,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11325,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3579,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      474,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3240,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1623,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      657,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1773,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      9894,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3123,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      633,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      978,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      840,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1053,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1095,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1689,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      831,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      648,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      756,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      300,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      519,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      162,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      147,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      141,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      138,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      54,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      81,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      36,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      63,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      9,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "2015",
+    "totalRecords": 50,
+    "totalCount": 66452,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

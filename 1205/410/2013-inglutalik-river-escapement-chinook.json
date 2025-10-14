@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      186,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      210,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      81,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1518,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1281,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      15,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      75,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      108,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      114,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      6,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      90,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      156,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      30,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 15,
+    "totalCount": 3873,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

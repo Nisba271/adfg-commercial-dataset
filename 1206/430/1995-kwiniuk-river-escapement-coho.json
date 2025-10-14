@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      0,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      10,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      12,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      14,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      20,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      58,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 6,
+    "totalCount": 114,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

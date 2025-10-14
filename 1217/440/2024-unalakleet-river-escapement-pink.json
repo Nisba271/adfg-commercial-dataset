@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1767,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      378,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      251,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5577,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      31493,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      44732,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      14062,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3673,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      29018,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      13958,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      40330,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      19010,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      12442,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      9106,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      11944,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      14630,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      12429,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      14884,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      9263,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6694,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4992,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      11285,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5537,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5753,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8339,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      9485,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8189,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7424,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1184,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1721,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      543,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1128,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      819,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      339,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      112,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1031,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      420,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      289,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      123,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      284,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      158,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      51,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      15,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      33,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      21,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      14,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      30,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      27,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "440",
+    "year": "2024",
+    "totalRecords": 51,
+    "totalCount": 365004,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

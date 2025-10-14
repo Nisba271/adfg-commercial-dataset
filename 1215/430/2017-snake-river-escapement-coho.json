@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      5,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      8,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      12,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      9,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      16,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      10,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      48,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      72,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      19,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      49,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      59,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      260,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      178,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      109,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      91,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      133,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      141,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      254,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      242,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      119,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      196,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      77,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      368,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      134,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      208,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "430",
+    "year": "2017",
+    "totalRecords": 29,
+    "totalCount": 2826,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

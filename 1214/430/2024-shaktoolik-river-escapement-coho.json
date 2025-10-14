@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      18,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      78,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      33,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 5,
+    "totalCount": 135,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

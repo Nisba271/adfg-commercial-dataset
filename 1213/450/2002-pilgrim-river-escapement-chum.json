@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      24,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      72,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      66,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      36,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      12,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      18,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      132,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      384,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      318,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      312,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      396,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      264,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      246,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      780,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      300,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      156,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      0,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      78,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      256,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      138,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      180,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      528,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      30,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      60,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      42,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      120,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      48,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      54,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      108,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 30,
+    "totalCount": 5164,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

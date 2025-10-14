@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      2,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      13,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      251,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      54,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      315,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      405,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1298,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      440,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      237,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      833,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1065,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      494,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      163,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      208,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1188,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      250,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      177,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      271,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      180,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      74,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      59,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      235,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      75,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      34,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "450",
+    "year": "2024",
+    "totalRecords": 28,
+    "totalCount": 8339,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      213,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      291,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      99,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      111,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "430",
+    "year": "2019",
+    "totalRecords": 5,
+    "totalCount": 714,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

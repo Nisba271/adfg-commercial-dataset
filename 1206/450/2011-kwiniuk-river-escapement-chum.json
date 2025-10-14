@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      48,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      33,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      384,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1077,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      135,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2724,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      132,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2133,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      525,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2649,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      45,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3279,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1038,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      798,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      579,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1362,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      444,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1392,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1929,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2412,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1110,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      351,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      780,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      609,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      183,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      174,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      171,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      855,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1149,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      555,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      633,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      324,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      348,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      498,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      195,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      144,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      147,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      153,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      84,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      24,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      82,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      123,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      90,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      12,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      21,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      18,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      6,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      9,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 51,
+    "totalCount": 31984,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

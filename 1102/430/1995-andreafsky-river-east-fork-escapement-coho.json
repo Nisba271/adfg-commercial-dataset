@@ -1,0 +1,310 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      0,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      3,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      8,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      12,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      5,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      9,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      11,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      24,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      41,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      95,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      246,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      305,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      414,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      245,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      692,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1436,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      368,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      938,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      335,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      265,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      444,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      863,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      14,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      29,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      6,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      21,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      164,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      2403,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      854,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      391,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      127,
+      430,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 32,
+    "totalCount": 10769,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      0,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      20,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      4,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      52,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      12,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      36,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      14,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      72,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      132,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      164,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      94,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      146,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      256,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      92,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      30,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      462,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      77,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      592,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      154,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      150,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      212,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      250,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      18,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      284,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      136,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      89,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      53,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      197,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      40,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      45,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      38,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      49,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      6,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      21,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      39,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "2000",
+    "totalRecords": 37,
+    "totalCount": 4039,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

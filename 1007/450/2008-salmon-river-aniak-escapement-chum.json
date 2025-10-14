@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      0,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      7,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      4,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      20,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      13,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      52,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      59,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      48,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      123,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      74,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      86,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      150,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      259,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      390,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      383,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      358,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      392,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      421,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      146,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      498,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      536,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      193,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      367,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      397,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      423,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      243,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      276,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      252,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      473,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      210,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      381,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      347,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      374,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      185,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      296,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      253,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      140,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      65,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      9,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      19,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      32,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      5,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      24,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      22,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      27,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      26,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      17,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      8,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      3,
+      450,
+      1007,
+      "Salmon River (Aniak)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "450",
+    "year": "2008",
+    "totalRecords": 51,
+    "totalCount": 9094,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

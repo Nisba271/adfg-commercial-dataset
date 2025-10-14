@@ -1,0 +1,373 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      12,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      27,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      9,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      21,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      84,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      111,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      39,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      120,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      87,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      390,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      759,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      825,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      579,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      816,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      537,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3528,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      2184,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      2205,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      573,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      728,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      240,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      210,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      444,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      705,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      429,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      354,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      396,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      258,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      261,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      222,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      195,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      147,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      108,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      42,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      33,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      18,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      6,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 39,
+    "totalCount": 17705,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

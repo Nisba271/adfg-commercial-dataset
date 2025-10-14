@@ -1,0 +1,382 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      48,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      100,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      162,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      174,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      89,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      147,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      102,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      160,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      214,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      209,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      178,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      142,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      196,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      210,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      217,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      153,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      305,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      223,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      402,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      304,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      180,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      322,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      441,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      144,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      448,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      581,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1000,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1151,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1020,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      714,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      652,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      645,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1307,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      2385,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      936,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      622,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      737,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      392,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      400,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      612,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "450",
+    "year": "2021",
+    "totalRecords": 40,
+    "totalCount": 18424,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

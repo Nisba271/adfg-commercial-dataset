@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      134,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      338,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      175,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      183,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      351,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      603,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      448,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      616,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      433,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      839,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      575,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      686,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "430",
+    "year": "2010",
+    "totalRecords": 14,
+    "totalCount": 5382,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

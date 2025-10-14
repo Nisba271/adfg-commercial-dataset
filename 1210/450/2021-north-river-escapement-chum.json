@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      15,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      6,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      30,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      24,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      69,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      150,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      12,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      51,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      168,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      9,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      18,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      81,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "2021",
+    "totalRecords": 13,
+    "totalCount": 636,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

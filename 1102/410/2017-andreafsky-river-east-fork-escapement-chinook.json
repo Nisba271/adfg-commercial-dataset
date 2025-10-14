@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      7,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      25,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      52,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      12,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      36,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      48,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      137,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      73,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      233,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      95,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      70,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      284,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      79,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      196,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      362,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      110,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      78,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      100,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      190,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      188,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      55,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      23,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      37,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      53,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      117,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      38,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      40,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      56,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      44,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      11,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      15,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      16,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      13,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "410",
+    "year": "2017",
+    "totalRecords": 36,
+    "totalCount": 2900,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      6,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      33,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      9,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      180,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      324,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      3,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      327,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      48,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      186,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      21,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      732,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1545,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1311,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      537,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      516,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      171,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      756,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      309,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      408,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      435,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      243,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      54,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      315,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      258,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      93,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      150,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      123,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      141,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      156,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      126,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      63,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      66,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      57,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      162,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      39,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      69,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      24,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      27,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      15,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      12,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      2,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "2004",
+    "totalRecords": 43,
+    "totalCount": 10053,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      0,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      2,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      41,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      48,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      67,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      104,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      81,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      71,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      17,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      55,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      107,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      678,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      433,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      155,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      260,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      250,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      382,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1022,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      697,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      375,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      292,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      97,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      46,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      38,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      25,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      37,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      74,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      33,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      24,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      7,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      78,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      21,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      12,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      15,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      9,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      5,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      180,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "410",
+    "year": "1995",
+    "totalRecords": 38,
+    "totalCount": 5839,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      0,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      14,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      15,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      34,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      52,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      102,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      59,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      50,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      40,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      6,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      113,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      18,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      13,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      21,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      252,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      196,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      206,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      159,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      125,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      55,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      42,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      85,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      151,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      119,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      131,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      606,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      703,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      377,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      201,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      171,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      218,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      386,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      393,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      227,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      259,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      733,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      612,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      343,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      114,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      12,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      589,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "430",
+    "year": "2006",
+    "totalRecords": 46,
+    "totalCount": 8019,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

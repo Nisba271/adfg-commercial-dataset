@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      0,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      604,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1209,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1566,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      4097,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3343,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3730,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2763,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3694,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      9281,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      7480,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      24884,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      21435,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      5554,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1497,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3132,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      4689,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      4940,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      14076,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      13253,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      7965,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      9653,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      15925,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      14717,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3102,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      8170,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      4024,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      5402,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      4618,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3767,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2174,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1279,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2931,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      4569,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2211,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      5237,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      6096,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      5715,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      7206,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3979,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1720,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1298,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      852,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      881,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      766,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      811,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      160,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      752,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      98,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      51,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      208,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      72,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      470,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      73,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      295,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      46,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      47,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      203,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      138,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      107,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "410",
+    "year": "2005",
+    "totalRecords": 60,
+    "totalCount": 259015,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

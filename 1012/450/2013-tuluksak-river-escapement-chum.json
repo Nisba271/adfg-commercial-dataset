@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      2,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      8,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      50,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      78,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      174,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      140,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      160,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      126,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      343,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      181,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      370,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      390,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      120,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      209,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      364,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      266,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      648,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1665,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      555,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      225,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      810,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      779,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      494,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      434,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      787,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1236,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      533,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      123,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      185,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      257,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      83,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      55,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      79,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      101,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      81,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      84,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      86,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      38,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      18,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      48,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      37,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      56,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      43,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      32,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      40,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      39,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      19,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      21,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      16,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      28,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      27,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      13,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      5,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      6,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      10,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      7,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3,
+      450,
+      1012,
+      "Tuluksak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "450",
+    "year": "2013",
+    "totalRecords": 59,
+    "totalCount": 12788,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

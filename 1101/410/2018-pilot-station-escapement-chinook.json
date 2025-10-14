@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      207,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      228,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      184,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      278,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1058,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      942,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2071,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3734,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2200,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4336,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1037,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2599,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3660,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4570,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5535,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6424,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3583,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      7385,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      10334,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6245,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3477,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2458,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6441,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5691,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5569,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      14266,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3344,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      11205,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4293,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4208,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2053,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9267,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6893,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3427,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2530,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1457,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1459,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      316,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      537,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1288,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      441,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      357,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      268,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      314,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      260,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      350,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      476,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      253,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      325,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      758,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      104,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      86,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      781,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      59,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      122,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      88,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "410",
+    "year": "2018",
+    "totalRecords": 57,
+    "totalCount": 161831,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

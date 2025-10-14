@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      0,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      2,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      4,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      7,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      15,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      14,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      40,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      65,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      48,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      32,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      34,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      38,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      50,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      58,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      47,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      42,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      59,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      49,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      55,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      194,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      82,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      159,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      101,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      78,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      13,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      123,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      24,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "430",
+    "year": "1995",
+    "totalRecords": 28,
+    "totalCount": 1434,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      0,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      120,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      130,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      176,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      157,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      102,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      450,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      638,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      177,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      578,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      959,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1362,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      794,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      2700,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1585,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      4473,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      4697,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      5367,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      2129,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      5682,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      3440,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      3757,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      5341,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      5730,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      3025,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      11265,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      6477,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      6700,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      11467,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      34811,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      12290,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      21572,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      11643,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      11616,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      6556,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      7826,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      11043,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      15013,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      7863,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      8305,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      10092,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      9480,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      8265,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      5992,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      4090,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      3562,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      3822,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 47,
+    "totalCount": 283319,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

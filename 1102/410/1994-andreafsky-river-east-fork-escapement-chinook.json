@@ -1,0 +1,310 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      1,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      188,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      141,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      54,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      222,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      156,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      651,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      225,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      1156,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      108,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      351,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      375,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      288,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      581,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      779,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      433,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      352,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      389,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      144,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      285,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      161,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      53,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      66,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      62,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      209,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      149,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      25,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      51,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      92,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      20,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      10,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      13,
+      410,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "410",
+    "year": "1994",
+    "totalRecords": 32,
+    "totalCount": 7790,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

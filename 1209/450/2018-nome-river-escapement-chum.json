@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      132,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      145,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      24,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      63,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      15,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      48,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      170,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      10,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      243,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      134,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      52,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      122,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      62,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      88,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      129,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      284,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      194,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      220,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      149,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      269,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      183,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      256,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      165,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      159,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      200,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      61,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      69,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      47,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      49,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      40,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      65,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      72,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      64,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      93,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      84,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      25,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      44,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      27,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      21,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      23,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      29,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      76,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      39,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      20,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      22,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      12,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      16,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      7,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "450",
+    "year": "2018",
+    "totalRecords": 55,
+    "totalCount": 4542,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      84,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      18,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      264,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      318,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1032,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1026,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1092,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1632,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      5388,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1128,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3012,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3726,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      5808,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      4572,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      4476,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2772,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1860,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1704,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1392,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2202,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2280,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1974,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1416,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3078,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3240,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2430,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      948,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      720,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      372,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      180,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      906,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1356,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      840,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      534,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1488,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1212,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      792,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      888,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      942,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      402,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      294,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      156,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      30,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "450",
+    "year": "2016",
+    "totalRecords": 44,
+    "totalCount": 69984,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

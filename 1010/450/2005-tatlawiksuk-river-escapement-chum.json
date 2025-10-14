@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      0,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      10,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      4,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      9,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      13,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      7,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      32,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      15,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      36,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      43,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      56,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      130,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      366,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      213,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1605,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2380,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1110,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1114,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      993,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1063,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1439,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1748,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1546,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2741,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2775,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2610,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3095,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2780,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3283,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2370,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2260,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2115,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2156,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2196,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1422,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1491,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1152,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1138,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1144,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      794,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      807,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      732,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      680,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      587,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      344,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      440,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      486,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      266,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      265,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      227,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      188,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      122,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      168,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      105,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      62,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      93,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      63,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      59,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      55,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      44,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      16,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      28,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      19,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      6,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      12,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      33,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      17,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      5,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "450",
+    "year": "2005",
+    "totalRecords": 71,
+    "totalCount": 55389,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

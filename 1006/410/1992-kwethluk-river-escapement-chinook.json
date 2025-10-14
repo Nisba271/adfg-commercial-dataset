@@ -1,0 +1,490 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      36,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      42,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      64,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      55,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      89,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      108,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      202,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      358,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      497,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1248,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      400,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      642,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      364,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      442,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      361,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      661,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      381,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      304,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      137,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      548,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      366,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      317,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      273,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      69,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      46,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      205,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      144,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      195,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      149,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      122,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      143,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      35,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      39,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      49,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      44,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      33,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      11,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      18,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      23,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      65,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      19,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      26,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      16,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      7,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      72,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      8,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      4,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      6,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "410",
+    "year": "1992",
+    "totalRecords": 52,
+    "totalCount": 9449,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

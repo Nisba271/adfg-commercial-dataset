@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      18,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      29,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      234,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3951,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      8015,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2732,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      104,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3076,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      8131,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1496,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      4330,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      9233,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      18734,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      5864,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      16282,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      20398,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      28280,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2035,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      7917,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      29870,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      8471,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2725,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      4007,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1520,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      5380,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1435,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1618,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1443,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3177,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      463,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1085,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      764,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      135,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      117,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      495,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      286,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      45,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      58,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      229,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      9,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      24,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      4,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      17,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      32,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      74,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      76,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      55,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      26,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      13,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      11,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      6,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      5,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      14,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "440",
+    "year": "2016",
+    "totalRecords": 57,
+    "totalCount": 204554,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

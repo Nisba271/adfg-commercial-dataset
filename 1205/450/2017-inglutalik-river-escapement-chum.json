@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      27,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      18,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      39,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      93,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      240,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      174,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1965,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2284,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2049,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      444,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2261,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2421,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      5223,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2848,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3483,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3690,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2810,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3498,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      4900,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      5583,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6054,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      723,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      8190,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2487,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3393,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2022,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3330,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1917,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3896,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3570,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2354,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1029,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1692,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2189,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      804,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      381,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      4115,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      468,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      435,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "450",
+    "year": "2017",
+    "totalRecords": 41,
+    "totalCount": 93105,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

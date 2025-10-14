@@ -1,0 +1,337 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      219,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      198,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      33,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      270,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      81,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      257,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      774,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1036,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      552,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      956,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1688,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1104,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1124,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1923,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1237,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      3375,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      615,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1122,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1125,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      2294,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      584,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      392,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      866,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1145,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      982,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      1669,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      536,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      542,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      733,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      652,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      312,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      340,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      504,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      250,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1976,
+      "January, 1 1976 0:00:00",
+      382,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "1976",
+    "totalRecords": 35,
+    "totalCount": 29872,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1976-12-31T00:00:00"
+  }
+}

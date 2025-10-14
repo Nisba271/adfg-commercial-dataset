@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      0,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      1,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      2,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      8,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      13,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      21,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      53,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      82,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      60,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      106,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      119,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      416,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      166,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      245,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      305,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      269,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      146,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      328,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      175,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      299,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      259,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      177,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      151,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      72,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      104,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      170,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      116,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      130,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      66,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      78,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      55,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      28,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      33,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      35,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      24,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      7,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      14,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      18,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      19,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      12,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      5,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      6,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      3,
+      410,
+      1004,
+      "Kogrukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "410",
+    "year": "1985",
+    "totalRecords": 43,
+    "totalCount": 4396,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1985-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      8,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      13,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      12,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      110,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      358,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      504,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      269,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      160,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      245,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      433,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      294,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      251,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      246,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      67,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      44,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      212,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      73,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      61,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      41,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      65,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      100,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      21,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      28,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      43,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      22,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      15,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      4,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 29,
+    "totalCount": 3700,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

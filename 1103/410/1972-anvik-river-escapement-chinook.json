@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      9,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      1,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      2,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      3,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      15,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      45,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      55,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      69,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      75,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      67,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      97,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      35,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      40,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      32,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      42,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      54,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      24,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      70,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      73,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      59,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      94,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      49,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      34,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      18,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      25,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      17,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "410",
+    "year": "1972",
+    "totalRecords": 26,
+    "totalCount": 1104,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1972-12-31T00:00:00"
+  }
+}

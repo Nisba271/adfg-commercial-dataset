@@ -1,0 +1,427 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      24,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      81,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      78,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      270,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      465,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      573,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2718,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1665,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3189,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1332,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1926,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1374,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1485,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      927,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1023,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1155,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      879,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      951,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1248,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      840,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1074,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1947,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      867,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      768,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      753,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      741,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1161,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1482,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      972,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      735,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      891,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1320,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      870,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3066,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2712,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1455,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1338,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1368,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1398,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1638,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2685,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      609,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      975,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      582,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "430",
+    "year": "2018",
+    "totalRecords": 45,
+    "totalCount": 53610,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

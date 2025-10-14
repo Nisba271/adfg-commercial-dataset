@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2214,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1671,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      597,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      294,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      414,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      22,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      24,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      126,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      108,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "440",
+    "year": "2025",
+    "totalRecords": 10,
+    "totalCount": 5470,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

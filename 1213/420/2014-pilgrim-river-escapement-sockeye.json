@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      30,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      53,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      50,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      204,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      283,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      692,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      416,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      75,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      401,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      206,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      179,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      117,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      601,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      88,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      24,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      62,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      39,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      71,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      876,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      410,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      54,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      381,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      577,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      20,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      388,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      355,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      409,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      299,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      586,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      513,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      208,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      137,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      126,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      97,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      100,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      65,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      120,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      58,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      66,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      37,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      33,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      15,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      16,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      32,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      6,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      3,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      2,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "420",
+    "year": "2014",
+    "totalRecords": 49,
+    "totalCount": 9581,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

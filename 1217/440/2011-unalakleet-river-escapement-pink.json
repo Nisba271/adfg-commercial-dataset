@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      7,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      5,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      10,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      23,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      43,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      182,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      343,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      380,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      104,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      690,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      930,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      961,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      595,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1387,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2709,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2728,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      4879,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      41,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      9191,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      11406,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      13502,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      19298,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      12184,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15740,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      23339,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      24960,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      25965,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      61654,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      27843,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      22328,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      18183,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      11121,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      12849,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      12005,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      8446,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      7498,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      812,
+      440,
+      1217,
+      "Unalakleet River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "440",
+    "year": "2011",
+    "totalRecords": 41,
+    "totalCount": 354347,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      343,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      52,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      192,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      516,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      303,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      145,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      39,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      143,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1961,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1327,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1216,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      683,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      761,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      482,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      406,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      453,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      233,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1204,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 19,
+    "totalCount": 9257,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

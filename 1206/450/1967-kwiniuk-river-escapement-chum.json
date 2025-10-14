@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      7,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      24,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      53,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      193,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      45,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      1140,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      693,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      591,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      288,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      464,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      2156,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      510,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      3348,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      3403,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      2683,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      2822,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      2974,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      1972,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      2706,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      308,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      97,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      62,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      26,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      1,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      19,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      56,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1967,
+      "January, 1 1967 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1967",
+    "totalRecords": 27,
+    "totalCount": 26641,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1967-12-31T00:00:00"
+  }
+}

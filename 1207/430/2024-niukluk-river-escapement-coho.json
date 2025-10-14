@@ -1,0 +1,103 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      12,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      24,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      18,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      21,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      39,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      36,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      33,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 9,
+    "totalCount": 186,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

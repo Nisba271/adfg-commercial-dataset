@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      3790,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      7953,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      6631,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      5215,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      6734,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      4513,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      4592,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      3122,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      3496,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      2954,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      1801,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      1278,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      224,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      209,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      444,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      453,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      556,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      355,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      225,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      165,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      53,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1972,
+      "January, 1 1972 0:00:00",
+      171,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "440",
+    "year": "1972",
+    "totalRecords": 22,
+    "totalCount": 54934,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1972-12-31T00:00:00"
+  }
+}

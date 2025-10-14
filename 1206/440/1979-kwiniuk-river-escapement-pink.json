@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      0,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      15,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      356,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      837,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      573,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      503,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      597,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      290,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1344,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      3273,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1528,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      3290,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      3090,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1657,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1287,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      4630,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      7987,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      16900,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      20690,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      12881,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      6535,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      18791,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      13334,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      21632,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      19905,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      4635,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      2791,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      620,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "1979",
+    "totalRecords": 28,
+    "totalCount": 169971,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1979-12-31T00:00:00"
+  }
+}

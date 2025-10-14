@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      42,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      26,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      16,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      19,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      11,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      7,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      10,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "410",
+    "year": "1998",
+    "totalRecords": 12,
+    "totalCount": 147,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

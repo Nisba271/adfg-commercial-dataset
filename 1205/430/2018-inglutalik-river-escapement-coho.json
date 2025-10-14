@@ -1,0 +1,247 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      27,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      24,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      165,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      159,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      75,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      99,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      51,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      72,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      90,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      81,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      54,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      15,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      57,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      93,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      96,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      138,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      84,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      21,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      69,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      108,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      42,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      18,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "430",
+    "year": "2018",
+    "totalRecords": 25,
+    "totalCount": 1647,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

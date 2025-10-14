@@ -1,0 +1,490 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      0,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      8,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      48,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      258,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      813,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1876,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3445,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5415,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      7588,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      10756,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      15151,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      16820,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      11143,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      11777,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      12057,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      16403,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      14105,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      16895,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      12787,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      16124,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      15760,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      15407,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      12912,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      10054,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      7979,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      6266,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      7426,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      7010,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5479,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      4426,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3326,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      4084,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2423,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2034,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1652,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1227,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      971,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2132,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1583,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1307,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1128,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1107,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      932,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      691,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      640,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      463,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      491,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      547,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      483,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      425,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      376,
+      420,
+      1003,
+      "Kanektok River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "420",
+    "year": "2009",
+    "totalRecords": 52,
+    "totalCount": 294212,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      34,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      26,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      108,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      348,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      253,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      289,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      463,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      129,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      508,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      71,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      412,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      3548,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      1891,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      435,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      1996,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      1908,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      1226,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      519,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      2000,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      1800,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      2079,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      6133,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      3299,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      466,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      1006,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      1125,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      1533,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      425,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      236,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      374,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      216,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      92,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      107,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      16,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1966,
+      "January, 1 1966 0:00:00",
+      31,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1966",
+    "totalRecords": 36,
+    "totalCount": 35102,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1966-12-31T00:00:00"
+  }
+}

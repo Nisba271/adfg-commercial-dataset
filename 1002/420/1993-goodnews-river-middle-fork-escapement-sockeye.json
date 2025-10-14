@@ -1,0 +1,589 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      692,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      939,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      935,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      221,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      700,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1072,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      780,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      31,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      121,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      230,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      405,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1273,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1236,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1404,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1467,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1239,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1459,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1445,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1080,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1056,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      736,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1124,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      752,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      561,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      427,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      208,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      650,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      358,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      163,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      257,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      84,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      300,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      64,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      105,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      191,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      135,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      65,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      50,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      23,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      60,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      42,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      17,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      62,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      48,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      20,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      37,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      27,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      3,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      33,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      21,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      8,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      30,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      63,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      52,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      45,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      41,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      38,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      35,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      28,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      26,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      24,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      22,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "420",
+    "year": "1993",
+    "totalRecords": 63,
+    "totalCount": 24820,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

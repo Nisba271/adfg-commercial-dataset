@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      522,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      120,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      180,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      297,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      327,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      609,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      738,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      615,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1032,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      516,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      126,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      60,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      21,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      207,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      195,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1218,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 16,
+    "totalCount": 5565,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

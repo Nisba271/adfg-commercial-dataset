@@ -1,0 +1,427 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      0,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      41,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      122,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      150,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      376,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      338,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      320,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      86,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      109,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      131,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      244,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      243,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      261,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      207,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      2107,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1236,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      565,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      403,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      374,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      311,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      308,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      218,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      145,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      167,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      107,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      143,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      161,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      102,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      172,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      92,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      147,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      45,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      37,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      49,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      58,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      83,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      87,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      59,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      34,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      25,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      10,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      12,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      18,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      20,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      8,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "430",
+    "year": "2001",
+    "totalRecords": 45,
+    "totalCount": 9931,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2001-12-31T00:00:00"
+  }
+}

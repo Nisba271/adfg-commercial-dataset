@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      10,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      7,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      26,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      19,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      13,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      23,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      212,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      214,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      199,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      685,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      871,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      711,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      63,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      169,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1318,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      388,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      103,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      974,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      625,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1312,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      295,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      200,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      219,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      469,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      375,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      449,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1352,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      950,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      75,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "440",
+    "year": "2017",
+    "totalRecords": 31,
+    "totalCount": 12327,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

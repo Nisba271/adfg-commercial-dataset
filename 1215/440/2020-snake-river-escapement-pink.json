@@ -1,0 +1,589 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      793,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3363,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      11689,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2684,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      30242,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      12,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      152,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1292,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      84915,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3063,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      742,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      30723,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4015,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      23644,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3034,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2999,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4479,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      36209,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      20410,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      13700,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3453,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4005,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      33167,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4488,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2664,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3522,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2988,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5182,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5061,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1883,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2990,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4323,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2996,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1512,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2580,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2553,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1525,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1107,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      907,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      935,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      837,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      216,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      181,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      118,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      150,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      86,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      96,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      21,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      25,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      56,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      34,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      37,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      24,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      18,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      7,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      14,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      0,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "440",
+    "year": "2020",
+    "totalRecords": 63,
+    "totalCount": 367950,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

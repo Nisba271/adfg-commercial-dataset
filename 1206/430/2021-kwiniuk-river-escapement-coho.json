@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      15,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      18,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      39,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      48,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      42,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      60,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      108,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      6,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      168,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      66,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      210,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      105,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      45,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      75,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      132,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      33,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "430",
+    "year": "2021",
+    "totalRecords": 17,
+    "totalCount": 1170,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

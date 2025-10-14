@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      12,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2,
+      420,
+      1203,
+      "Fish River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "420",
+    "year": "2017",
+    "totalRecords": 5,
+    "totalCount": 23,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

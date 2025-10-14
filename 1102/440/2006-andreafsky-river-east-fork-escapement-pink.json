@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      43,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      54,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      314,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      281,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      134,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      326,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1431,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1325,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3092,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      8096,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      13219,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7941,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      11605,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      13327,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      14844,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7204,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1117,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2858,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2816,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      8969,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      17205,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      18690,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      18357,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      13319,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      16186,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      11435,
+      440,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "440",
+    "year": "2006",
+    "totalRecords": 26,
+    "totalCount": 194188,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

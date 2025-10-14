@@ -1,0 +1,445 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      6,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      10,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      11,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      2,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      9,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      13,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      18,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      5,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      12,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      22,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      16,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      67,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      108,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      97,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      198,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      160,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      276,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      283,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      172,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      242,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      420,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      281,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      361,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      680,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      611,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      345,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      656,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      636,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      444,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      696,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1149,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1234,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1190,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1462,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1796,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1082,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      2734,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      989,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      790,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      942,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      986,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1228,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1483,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      617,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "430",
+    "year": "2013",
+    "totalRecords": 47,
+    "totalCount": 24543,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

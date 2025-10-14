@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      0,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      3,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      4,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      13,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      34,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      143,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      210,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      421,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      382,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      55,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      264,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      493,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      335,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      412,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      720,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      121,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      166,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      341,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      570,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      262,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      80,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      338,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1022,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      953,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      231,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      513,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      75,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      200,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      481,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      957,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      296,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1115,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1488,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      940,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      971,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1228,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      868,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1177,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      718,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      521,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      652,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      689,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      651,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      397,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      556,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      799,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      424,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      224,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      168,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      106,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      135,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      353,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      212,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      289,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      247,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      195,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "450",
+    "year": "2014",
+    "totalRecords": 57,
+    "totalCount": 25219,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      6,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      40,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      78,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      118,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      54,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      64,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      24,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      65,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      146,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      20,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      381,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      18,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      86,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      33,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "410",
+    "year": "1999",
+    "totalRecords": 30,
+    "totalCount": 1340,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

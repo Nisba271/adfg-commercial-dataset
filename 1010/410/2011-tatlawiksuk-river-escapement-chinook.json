@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      7,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      34,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      44,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      43,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      51,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      106,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      37,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      53,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      94,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      144,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      29,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      10,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      21,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      42,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      4,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      5,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 26,
+    "totalCount": 858,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

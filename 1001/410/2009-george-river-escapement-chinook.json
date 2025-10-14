@@ -1,0 +1,868 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      0,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      6,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      31,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      140,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      22,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      45,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      55,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      310,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      209,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      421,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      118,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      203,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      116,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      252,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      317,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      358,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      248,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      95,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      57,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      87,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      75,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      86,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      44,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      24,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      43,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      62,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      15,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      12,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      34,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      40,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      21,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      13,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      4,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      9,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      10,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      16,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      19,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      20,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      23,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      54,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      194,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      216,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      261,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      316,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      626,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      835,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1256,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1374,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1577,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1693,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1945,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2262,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2620,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2868,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2963,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3020,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3107,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3182,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3268,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3312,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3336,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3379,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3441,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3456,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3468,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3502,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3508,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3539,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3579,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3582,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3603,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3616,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3622,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3627,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3629,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3630,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3634,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3639,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3644,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3647,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3648,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3652,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3654,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3656,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3658,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3659,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3660,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3662,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3663,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3664,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "410",
+    "year": "2009",
+    "totalRecords": 94,
+    "totalCount": 148277,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

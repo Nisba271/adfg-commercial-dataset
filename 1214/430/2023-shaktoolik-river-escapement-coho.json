@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      168,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      102,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      81,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      93,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      57,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      69,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      144,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      123,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      204,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      222,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      54,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      36,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      9,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      18,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      33,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 16,
+    "totalCount": 1413,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

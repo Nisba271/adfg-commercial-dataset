@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      0,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      4,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      11,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      15,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      6,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      12,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      38,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      21,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      24,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      30,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      76,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      58,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      56,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      81,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      79,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      49,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      147,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      136,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      115,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      73,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      135,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      167,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      47,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      43,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      96,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      155,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      232,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      119,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      144,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      86,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      57,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      5,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      14,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      22,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      18,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      26,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      16,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      17,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      9,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      10,
+      430,
+      1009,
+      "Takotna River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "430",
+    "year": "2007",
+    "totalRecords": 43,
+    "totalCount": 2455,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

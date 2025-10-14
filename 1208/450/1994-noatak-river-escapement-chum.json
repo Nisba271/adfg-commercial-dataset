@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      4266,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      14231,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      14474,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      15146,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      31160,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      9471,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      18179,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      39055,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      5540,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      3283,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      4860,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      1989,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1208,
+    "species_id": "450",
+    "year": "1994",
+    "totalRecords": 12,
+    "totalCount": 161654,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

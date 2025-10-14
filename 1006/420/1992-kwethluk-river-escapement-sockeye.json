@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      6,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      34,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      53,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      70,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      41,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      69,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      51,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      14,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      30,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      63,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      75,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      86,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      38,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      58,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      50,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      45,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      36,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      13,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      16,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      5,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      23,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      33,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      18,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      19,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      20,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      21,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      8,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      17,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      4,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      10,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      9,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      15,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      12,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      7,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "420",
+    "year": "1992",
+    "totalRecords": 38,
+    "totalCount": 1075,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

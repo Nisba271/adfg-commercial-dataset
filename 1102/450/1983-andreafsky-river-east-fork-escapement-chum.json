@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      14,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      37,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      20,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      25,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      40,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      98,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1128,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      337,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      850,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      5140,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      5967,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      7043,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      4888,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2410,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      10407,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      4304,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1672,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2323,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      723,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1826,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      9621,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      9817,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      3969,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      8143,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      10612,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      4548,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2110,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1551,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2701,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1828,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1125,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1331,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1605,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1904,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1592,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1619,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "450",
+    "year": "1983",
+    "totalRecords": 36,
+    "totalCount": 113328,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1983-12-31T00:00:00"
+  }
+}

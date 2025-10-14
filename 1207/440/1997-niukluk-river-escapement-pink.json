@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      0,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      52,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      12,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      8,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      7,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      6,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      104,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      82,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      122,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      53,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      38,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      67,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      13,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      23,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      75,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      44,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      217,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      390,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      339,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      290,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      669,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      495,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      420,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      437,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      453,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      312,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      391,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      503,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      819,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      550,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      486,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      556,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      154,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      141,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      333,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      178,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      274,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      221,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      171,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      190,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      210,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      177,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      109,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      120,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      74,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      27,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      71,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      45,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      28,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      22,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      17,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      24,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "440",
+    "year": "1997",
+    "totalRecords": 53,
+    "totalCount": 10621,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      11,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      34,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      32,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      35,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      112,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      5,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      115,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      109,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      629,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      809,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      959,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1123,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      885,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      443,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      275,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      394,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      271,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      240,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      324,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      450,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      454,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      593,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      689,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      198,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      143,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      91,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      512,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      283,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      336,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      274,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      209,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      187,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      139,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      42,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      87,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      59,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      54,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      30,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      33,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      20,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      19,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      17,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      6,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      2,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "2023",
+    "totalRecords": 48,
+    "totalCount": 11740,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      0,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      15,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      17,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      52,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      58,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      60,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      85,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      114,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      22,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      51,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      47,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      45,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      242,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      112,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      300,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      80,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      101,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      282,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      164,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      332,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      651,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      309,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      390,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      845,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      986,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1573,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2148,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      500,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      560,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      478,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1110,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      255,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      364,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      692,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      778,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1255,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      544,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1598,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1090,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1140,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1203,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      707,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      303,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      308,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      290,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      448,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      178,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      68,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      81,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      54,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      103,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 51,
+    "totalCount": 23188,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      24,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      18,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      30,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      54,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      96,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      60,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      72,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      66,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      90,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      42,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      12,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      6,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      36,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 14,
+    "totalCount": 606,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

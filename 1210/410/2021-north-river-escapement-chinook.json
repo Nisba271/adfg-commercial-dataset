@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      24,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      9,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      18,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      60,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      78,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      21,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      15,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      27,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      42,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      180,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      108,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      45,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      30,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "2021",
+    "totalRecords": 14,
+    "totalCount": 660,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

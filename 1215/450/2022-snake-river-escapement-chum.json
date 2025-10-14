@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      9,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      2,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      16,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      65,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      279,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      166,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      6,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      69,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      47,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      37,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      191,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      184,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      31,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      52,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      263,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      202,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      55,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      227,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      125,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      102,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      34,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      134,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      115,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      280,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      142,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      74,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      260,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      309,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      56,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      33,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      199,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      183,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      11,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      162,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      14,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      26,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      48,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      46,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      61,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      38,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      98,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      57,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      22,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      5,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      25,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      13,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "450",
+    "year": "2022",
+    "totalRecords": 48,
+    "totalCount": 4574,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

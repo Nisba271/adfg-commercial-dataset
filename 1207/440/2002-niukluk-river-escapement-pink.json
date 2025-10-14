@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      0,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      333,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      3762,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      4557,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      3750,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1638,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      14286,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      10155,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      9852,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      18403,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      10641,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      31272,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      33825,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      32439,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      43980,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      54168,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      33711,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      18840,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      22824,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      40107,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      26442,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      26331,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      55923,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      43002,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      39621,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      23679,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      13899,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      5034,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2241,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2775,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2115,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      879,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      744,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      825,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      423,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      567,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      447,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      600,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      525,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      309,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      198,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      327,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      231,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      159,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      66,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      54,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      117,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      63,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      69,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      36,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      12,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      18,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      9,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      39,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      15,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      3,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "440",
+    "year": "2002",
+    "totalRecords": 58,
+    "totalCount": 636347,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

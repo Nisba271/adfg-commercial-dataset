@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      89,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      14,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      116,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      36,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      205,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      650,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3761,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      5687,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      5132,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3395,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      702,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3401,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2585,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1875,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      4311,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6800,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      7716,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      7819,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      25173,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      8045,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1554,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      8625,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      7640,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      7026,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3932,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3010,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      94,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1441,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1805,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      4140,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6605,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2516,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1487,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3679,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2116,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2201,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2129,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1141,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1315,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      792,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      530,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      500,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      0,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "440",
+    "year": "2012",
+    "totalRecords": 44,
+    "totalCount": 151792,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

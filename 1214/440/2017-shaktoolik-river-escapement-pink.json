@@ -1,0 +1,706 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      33,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      138,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      366,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      72,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      24,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      44,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      159,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      186,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      210,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      403,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      345,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      5697,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      5523,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      49533,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      39024,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      189798,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      43125,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      36135,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      129021,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      175347,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      120705,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      55812,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      47691,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      21807,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      94501,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      151899,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      314506,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      142668,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      19281,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      8004,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      7158,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      14580,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      99837,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      8382,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      11784,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      33648,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      41223,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      17523,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      23604,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      12066,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      9246,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      9428,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      12754,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      20851,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      11193,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6373,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      772,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1673,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1582,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2406,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      633,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1708,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      971,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1032,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      953,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      769,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      602,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      339,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      351,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      479,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      360,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      201,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      249,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      299,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      232,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      225,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      315,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      378,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      255,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      135,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      267,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      105,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      30,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      31,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      12,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "440",
+    "year": "2017",
+    "totalRecords": 76,
+    "totalCount": 2009071,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      0,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      12,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      21,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      19,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      24,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      16,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      35,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      13,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      11,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      6,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2,
+      410,
+      1213,
+      "Pilgrim River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "410",
+    "year": "2006",
+    "totalRecords": 16,
+    "totalCount": 179,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

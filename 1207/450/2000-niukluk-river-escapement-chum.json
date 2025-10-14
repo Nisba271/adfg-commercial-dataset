@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      328,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      668,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2112,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1940,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1768,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1060,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1564,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2205,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1622,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2222,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1481,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1146,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1079,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1004,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      643,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      632,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      848,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1065,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      524,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      171,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      229,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      224,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      76,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      339,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      602,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      384,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      688,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      421,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      265,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      143,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      119,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      146,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      0,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      21,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      63,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      66,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      44,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      32,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      28,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      16,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      22,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      6,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "450",
+    "year": "2000",
+    "totalRecords": 44,
+    "totalCount": 28021,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      27,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      0,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      352,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      3822,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      26100,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      39756,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      70978,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      34030,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      38448,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      31351,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      10204,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      6404,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      6365,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      6364,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      2495,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      6355,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      10149,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      10293,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      11576,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      15285,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      15119,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      22755,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      31826,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      17657,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      9076,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      11858,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1522,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      4435,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      2386,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1975,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1806,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1671,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1512,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "440",
+    "year": "1984",
+    "totalRecords": 33,
+    "totalCount": 453952,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

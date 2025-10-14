@@ -1,0 +1,373 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      20,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      7,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      6,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      9,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      4,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      5,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      8,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      14,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      27,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      28,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      11,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      23,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      47,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      13,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      66,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      40,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      12,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      15,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      25,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      58,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      41,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      19,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      136,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      35,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      55,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      17,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      45,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      128,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      184,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      10,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      378,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      81,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      99,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      144,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      304,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "430",
+    "year": "2016",
+    "totalRecords": 39,
+    "totalCount": 2120,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

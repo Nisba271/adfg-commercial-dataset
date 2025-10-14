@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      813,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1679,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1549,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1926,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      5639,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      8469,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      11232,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      18211,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      14692,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      11503,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      15027,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      13178,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      12433,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      11667,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      8718,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      11578,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      10454,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      21370,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      16770,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      22118,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      13709,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      10114,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      8612,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      7449,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      4375,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      2751,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      2810,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      2705,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      3436,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1276,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1979,
+      "January, 1 1979 0:00:00",
+      1449,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "450",
+    "year": "1979",
+    "totalRecords": 31,
+    "totalCount": 277712,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1979-12-31T00:00:00"
+  }
+}

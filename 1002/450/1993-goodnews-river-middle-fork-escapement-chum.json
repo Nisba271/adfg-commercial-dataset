@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      190,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      7,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      290,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      24,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      20,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      58,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      56,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      11,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      5,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      15,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      258,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      224,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      282,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      340,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1062,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      273,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      216,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      354,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      277,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      429,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1054,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      887,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      716,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      535,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      367,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      175,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      838,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      281,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      472,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      549,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1141,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      263,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      155,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      328,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      641,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      171,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      74,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      59,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      16,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      164,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      77,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      208,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      98,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      63,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      107,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      86,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      21,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      75,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      9,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      37,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      28,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      25,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      22,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      19,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      17,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      13,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      10,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      8,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      6,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "450",
+    "year": "1993",
+    "totalRecords": 60,
+    "totalCount": 14206,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

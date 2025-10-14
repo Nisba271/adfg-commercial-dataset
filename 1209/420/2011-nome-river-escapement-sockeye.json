@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      420,
+      1209,
+      "Nome River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1,
+      420,
+      1209,
+      "Nome River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2,
+      420,
+      1209,
+      "Nome River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3,
+      420,
+      1209,
+      "Nome River",
+      "Sockeye"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      6,
+      420,
+      1209,
+      "Nome River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "420",
+    "year": "2011",
+    "totalRecords": 5,
+    "totalCount": 12,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      2,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      6,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      8,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      15,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      10,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      5,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      11,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      13,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      4,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      7,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "420",
+    "year": "2023",
+    "totalRecords": 13,
+    "totalCount": 85,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

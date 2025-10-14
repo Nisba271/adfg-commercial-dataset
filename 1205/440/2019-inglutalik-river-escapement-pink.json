@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      66,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      198,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      69,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      39,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      591,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2247,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      7638,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      11409,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      13572,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2976,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      5040,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      14049,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      18168,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      15132,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      12768,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      11271,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      9531,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      7464,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1224,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2766,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      9561,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      21618,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      35406,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1998,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3399,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "440",
+    "year": "2019",
+    "totalRecords": 27,
+    "totalCount": 208203,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

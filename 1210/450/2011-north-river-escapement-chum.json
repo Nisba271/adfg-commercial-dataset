@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      45,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      60,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      42,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      18,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      12,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      84,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      96,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      552,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      684,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      180,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      444,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      546,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      4002,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      960,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      330,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      534,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      384,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1452,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1110,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      660,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      801,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      914,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1152,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      528,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      264,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      222,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      198,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      582,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      348,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      618,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      312,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      226,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      139,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      142,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      48,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      72,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      10,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      66,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      55,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      54,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      116,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      51,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      65,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      78,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      88,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      97,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      100,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      99,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      40,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      120,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      234,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      132,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      106,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      90,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      30,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      6,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 58,
+    "totalCount": 20399,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

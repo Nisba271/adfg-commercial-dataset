@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      36,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      11,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      44,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      63,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      29,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      248,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      529,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      221,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      216,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      422,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      203,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      327,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      192,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      93,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      136,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      251,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      14,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      19,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      120,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      95,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      21,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      5,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      6,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      46,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      47,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 26,
+    "totalCount": 3394,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

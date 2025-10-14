@@ -1,0 +1,580 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      0,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      4,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      3,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      42,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      168,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      262,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      28,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      103,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      483,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      392,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      574,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      834,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      634,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      424,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1037,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      501,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      759,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1278,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1762,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      809,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      666,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      840,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      828,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1238,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      869,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      702,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      707,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1123,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      677,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      959,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      880,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      468,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      504,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      515,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      409,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      251,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      206,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      195,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      301,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      224,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      159,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      144,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      119,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      99,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      59,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      54,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      64,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      98,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      44,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      55,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      72,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      30,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      37,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      22,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      25,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      13,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      5,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      8,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      15,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1,
+      450,
+      1010,
+      "Tatlawiksuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 62,
+    "totalCount": 23790,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

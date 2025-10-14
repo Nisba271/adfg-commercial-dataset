@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      279,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      30,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      174,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2067,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4581,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      837,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      876,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      729,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      531,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      723,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      693,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      504,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      711,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      465,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      501,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      129,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      165,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      51,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      327,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      402,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1002,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      621,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      66,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      90,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      171,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      249,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      135,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      192,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      189,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      87,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      99,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      9,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      21,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 36,
+    "totalCount": 17715,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      21,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      27,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      69,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      192,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      159,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      12,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      54,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      177,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      150,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      246,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      351,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      171,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      93,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      96,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      102,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      63,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      141,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      90,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      36,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "2018",
+    "totalRecords": 23,
+    "totalCount": 2268,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

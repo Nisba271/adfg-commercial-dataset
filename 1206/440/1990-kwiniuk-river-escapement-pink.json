@@ -1,0 +1,328 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      10,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      2,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      0,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      20,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      40,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      50,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      22,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      52,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      269,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      2807,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      12328,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      21849,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      22332,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      39003,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      34862,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      23589,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      31299,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      20809,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      10320,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      7535,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      16582,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      9598,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      1458,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      8970,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      16482,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      12999,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      23693,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      19937,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      14003,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      8256,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      14074,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      19893,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      16516,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1990,
+      "January, 1 1990 0:00:00",
+      7355,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "1990",
+    "totalRecords": 34,
+    "totalCount": 417014,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1990-12-31T00:00:00"
+  }
+}

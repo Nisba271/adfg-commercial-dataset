@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      5,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      116,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      211,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      156,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      730,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      581,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      29,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      61,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      95,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      171,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      153,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      192,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      663,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      46,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      917,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3364,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      348,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      108,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      856,
+      450,
+      1201,
+      "Bonanza River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1201,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 22,
+    "totalCount": 8807,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

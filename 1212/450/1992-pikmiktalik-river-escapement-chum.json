@@ -1,0 +1,229 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      64,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      80,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      28,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      29,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      189,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      25,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      43,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1043,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      20,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      44,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      106,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      53,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      48,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      107,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      113,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      60,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      192,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      114,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      37,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      138,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "450",
+    "year": "1992",
+    "totalRecords": 23,
+    "totalCount": 2538,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

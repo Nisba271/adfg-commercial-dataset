@@ -1,0 +1,337 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      42,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      115,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      225,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      240,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      74,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      103,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      433,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      167,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      139,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      57,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      153,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      313,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      678,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      907,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      639,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      209,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      362,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      248,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      68,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      41,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      30,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      85,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      78,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      62,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      35,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      37,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      104,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      65,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      111,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      112,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      16,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      66,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      43,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      49,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      38,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "410",
+    "year": "2019",
+    "totalRecords": 35,
+    "totalCount": 6144,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

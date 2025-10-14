@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      27,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      12,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      18,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      15,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "410",
+    "year": "2019",
+    "totalRecords": 7,
+    "totalCount": 81,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

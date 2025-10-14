@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      16,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      3,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      6,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      7,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      49,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      29,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      5,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      11,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "440",
+    "year": "2003",
+    "totalRecords": 11,
+    "totalCount": 129,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

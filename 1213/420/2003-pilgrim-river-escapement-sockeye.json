@@ -1,0 +1,625 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      14,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      10,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      65,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      19,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      6,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      11,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      37,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1493,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2858,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      174,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1536,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2594,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      13,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1296,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      3760,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      3280,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1369,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      146,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1850,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1063,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      3816,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1741,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      717,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      15,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      689,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      253,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      472,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      250,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1677,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      705,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      296,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      340,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1293,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      463,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      742,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      471,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      561,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      332,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      233,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      534,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      321,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      104,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      139,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      159,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      54,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      52,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      133,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      239,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      95,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      140,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      69,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      136,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      88,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      42,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      106,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      121,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      102,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      23,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      22,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      28,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      24,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      21,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      7,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      5,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 67,
+    "totalCount": 39427,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      21,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      12,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      27,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      135,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      66,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      555,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      411,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      147,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      189,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1287,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1707,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1734,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1830,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4437,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      723,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1251,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1791,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1893,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1638,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1248,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      543,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      339,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      309,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      96,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      399,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      351,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      546,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      72,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      273,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 31,
+    "totalCount": 24033,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

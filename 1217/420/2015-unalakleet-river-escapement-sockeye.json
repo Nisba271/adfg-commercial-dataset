@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      4,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      38,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      86,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      114,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      27,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      52,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      30,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      58,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      98,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      75,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      42,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      12,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      56,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      70,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      21,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      18,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      28,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      17,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      13,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      10,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      15,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      5,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      8,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "420",
+    "year": "2015",
+    "totalRecords": 28,
+    "totalCount": 914,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

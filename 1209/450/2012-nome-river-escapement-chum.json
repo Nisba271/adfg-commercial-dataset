@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      0,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      13,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      5,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      11,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      117,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      163,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      76,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      26,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      10,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      103,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      17,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      158,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      168,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      70,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      72,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      226,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      34,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      43,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      77,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      67,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      58,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      29,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      7,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      14,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      51,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      15,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      45,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      27,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      24,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      68,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      22,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      37,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      19,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      20,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      28,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 38,
+    "totalCount": 1930,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

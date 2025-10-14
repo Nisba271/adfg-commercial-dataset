@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      99,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      219,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      684,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      258,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      729,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      267,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3174,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      252,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1338,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      5436,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3720,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3615,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      984,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      5562,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1839,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      915,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3444,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1230,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3237,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3411,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1548,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2652,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      441,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      624,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2805,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      4740,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3780,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      676,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1341,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2496,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2191,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      201,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      136,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      74,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      207,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      83,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      55,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      105,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      98,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      43,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      30,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "450",
+    "year": "2011",
+    "totalRecords": 43,
+    "totalCount": 64754,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

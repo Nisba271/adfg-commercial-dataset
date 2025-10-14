@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      9,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      36,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      31,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      24,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      18,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      12,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      15,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      180,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      144,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      246,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      96,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      54,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      27,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      33,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "2022",
+    "totalRecords": 17,
+    "totalCount": 934,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

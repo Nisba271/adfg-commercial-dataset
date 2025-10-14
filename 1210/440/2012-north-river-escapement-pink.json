@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      0,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      24,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      18,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      42,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      66,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      102,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      186,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      144,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      132,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      462,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      4980,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      5742,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3570,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3444,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3372,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6708,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6090,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      5076,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      8490,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      11886,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      9682,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      9288,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6730,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      5394,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6006,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      4032,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3492,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3672,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3996,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2874,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2046,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1404,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1662,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1188,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1308,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1038,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1218,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1944,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1260,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      840,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      564,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      360,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      408,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      552,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      294,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      174,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      96,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      48,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "440",
+    "year": "2012",
+    "totalRecords": 49,
+    "totalCount": 132110,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

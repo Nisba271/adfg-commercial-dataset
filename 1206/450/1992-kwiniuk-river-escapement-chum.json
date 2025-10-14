@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      803,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      218,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      152,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      703,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      332,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1354,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1027,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      701,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      372,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      557,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1305,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      725,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      387,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      377,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      367,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      232,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      230,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      316,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      307,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      344,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      203,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      62,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      132,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      299,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      113,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      106,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      145,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      104,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      42,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1992",
+    "totalRecords": 30,
+    "totalCount": 12015,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

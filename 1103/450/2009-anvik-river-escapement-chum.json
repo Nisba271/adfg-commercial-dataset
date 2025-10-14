@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      77,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      606,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      520,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      262,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      545,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      965,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1438,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1886,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2563,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3512,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3444,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3959,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5165,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      6402,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      7290,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      7672,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5772,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      4258,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      12086,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      14952,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      10424,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      6594,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      6602,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      11650,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      9854,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      9532,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5118,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3478,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5508,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      7388,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3896,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2518,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3644,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3815,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5880,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3638,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1944,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1602,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1052,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1500,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2030,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2057,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "450",
+    "year": "2009",
+    "totalRecords": 42,
+    "totalCount": 193098,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

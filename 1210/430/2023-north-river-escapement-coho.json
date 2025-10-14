@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      9,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      24,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      18,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      6,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      15,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      30,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      45,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      51,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      48,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      36,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      27,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      42,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 14,
+    "totalCount": 354,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

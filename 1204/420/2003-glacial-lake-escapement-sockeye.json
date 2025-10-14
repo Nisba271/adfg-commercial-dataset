@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      112,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      169,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      21,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      135,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      86,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      75,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      14,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      48,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      24,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      5,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      28,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      76,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      240,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      73,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      41,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      128,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      162,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      159,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      65,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      20,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      26,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      12,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      105,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      23,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      11,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      15,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      27,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      8,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      10,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1204,
+    "species_id": "420",
+    "year": "2003",
+    "totalRecords": 30,
+    "totalCount": 1918,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

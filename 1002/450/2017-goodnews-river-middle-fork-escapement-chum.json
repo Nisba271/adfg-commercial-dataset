@@ -1,0 +1,652 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      35,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      143,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      42,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      107,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      117,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      192,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      126,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      222,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      404,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      652,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1015,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      460,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      655,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2120,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2114,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1351,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1134,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1939,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      517,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1517,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3794,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3908,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      489,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      218,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      377,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      685,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      839,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      840,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2615,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1626,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      502,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1945,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      656,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      815,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1261,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1887,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1135,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      985,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1385,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1125,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      339,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      306,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      283,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      244,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      215,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      201,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      179,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      160,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      136,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      122,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      112,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      100,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      88,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      77,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      70,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      63,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      56,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      51,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      46,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      37,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      34,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      31,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      28,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      24,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      22,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      20,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      17,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      16,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      15,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      13,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "450",
+    "year": "2017",
+    "totalRecords": 70,
+    "totalCount": 45054,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

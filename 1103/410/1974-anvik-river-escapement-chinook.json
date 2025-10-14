@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      3,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      0,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      1,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      13,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      20,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      22,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      38,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      27,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      70,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      32,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      14,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      28,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      69,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      29,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      19,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "410",
+    "year": "1974",
+    "totalRecords": 15,
+    "totalCount": 385,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1974-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      2,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      7,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "430",
+    "year": "2013",
+    "totalRecords": 5,
+    "totalCount": 13,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      38,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      36,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      29,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      42,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      33,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      108,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      126,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      94,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      27106,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      53835,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3524,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      17843,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      967,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9769,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      26155,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5967,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      49783,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      28840,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      58742,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      38452,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9702,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      159,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      119,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1565,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1437,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3310,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4030,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3795,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3200,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5680,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      584,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1030,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      227,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      626,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      403,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      411,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      785,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      512,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      396,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "440",
+    "year": "1998",
+    "totalRecords": 41,
+    "totalCount": 359469,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

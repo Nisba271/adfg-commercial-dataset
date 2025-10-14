@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      0,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      9,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      10,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      40,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      13,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      7,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      8,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      25,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      167,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      393,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      210,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      150,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      504,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      599,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      46,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      246,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      230,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      421,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      223,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      236,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      252,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      536,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "1973",
+    "totalRecords": 22,
+    "totalCount": 4325,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1973-12-31T00:00:00"
+  }
+}

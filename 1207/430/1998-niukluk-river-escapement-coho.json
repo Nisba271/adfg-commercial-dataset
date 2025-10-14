@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      12,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      16,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      20,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      10,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      14,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      22,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      23,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      37,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      30,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      33,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      42,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      48,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      19,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      34,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      72,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      124,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      176,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "430",
+    "year": "1998",
+    "totalRecords": 20,
+    "totalCount": 744,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

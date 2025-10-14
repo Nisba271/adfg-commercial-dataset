@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      0,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      11,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      23,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      548,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      4902,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      430,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      503,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      20,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      59,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1438,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      566,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1429,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      364,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1636,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      5551,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      4502,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1917,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      610,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3592,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2903,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2990,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2043,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1465,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1743,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2391,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1777,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1040,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1345,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      957,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      712,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      344,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      335,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      372,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      394,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      401,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      239,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      181,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      173,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      163,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      87,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      122,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      61,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      77,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      50,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      32,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      47,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      41,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      7,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      31,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      21,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      24,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      14,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      48,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      15,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      29,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      36,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      17,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      52,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      33,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      38,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      27,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      6,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      10,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "440",
+    "year": "2010",
+    "totalRecords": 64,
+    "totalCount": 50997,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

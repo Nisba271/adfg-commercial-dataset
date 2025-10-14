@@ -1,0 +1,634 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      9,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      2,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      11,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      35,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      43,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      27,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      56,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      86,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      198,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      44,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      192,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      487,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      649,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      471,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      103,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      611,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      677,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      736,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      785,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      825,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      850,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      859,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      862,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      833,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1340,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1167,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      909,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      613,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      325,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      283,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      392,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      520,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      231,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      169,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      355,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      542,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      463,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      284,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      340,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      320,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      179,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      250,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      153,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      194,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      114,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      101,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      90,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      79,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      67,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      60,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      50,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      42,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      38,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      33,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      29,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      25,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      21,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      18,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      15,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      13,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "450",
+    "year": "2024",
+    "totalRecords": 68,
+    "totalCount": 19315,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

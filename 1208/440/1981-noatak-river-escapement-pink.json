@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      0,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      46,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      3693,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1694,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2078,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1321,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2218,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      3014,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1448,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2769,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1208,
+    "species_id": "440",
+    "year": "1981",
+    "totalRecords": 10,
+    "totalCount": 18281,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1981-12-31T00:00:00"
+  }
+}

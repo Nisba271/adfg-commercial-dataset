@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      4,
+      410,
+      1209,
+      "Nome River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      2,
+      410,
+      1209,
+      "Nome River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      0,
+      410,
+      1209,
+      "Nome River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      6,
+      410,
+      1209,
+      "Nome River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      5,
+      410,
+      1209,
+      "Nome River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      10,
+      410,
+      1209,
+      "Nome River",
+      "Chinook"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1,
+      410,
+      1209,
+      "Nome River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "410",
+    "year": "1993",
+    "totalRecords": 7,
+    "totalCount": 28,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

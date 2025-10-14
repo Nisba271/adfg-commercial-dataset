@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      34,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      65,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      55,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      28,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      32,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      25,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      64,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      90,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      96,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      50,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      121,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      92,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      308,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      278,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      208,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      275,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      345,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      317,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      413,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      301,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      173,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      231,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      153,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      224,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      525,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1428,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      267,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      35,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      307,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      214,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      558,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      243,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      633,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      196,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      368,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      927,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      997,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      602,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      598,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1131,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2182,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2363,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      996,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      529,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      271,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1577,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      616,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      860,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1154,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1048,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1055,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1060,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1061,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1062,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1066,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1058,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1054,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1046,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "430",
+    "year": "2019",
+    "totalRecords": 60,
+    "totalCount": 33066,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

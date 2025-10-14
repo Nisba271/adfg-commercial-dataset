@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      12,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      117,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      129,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      459,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1794,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3210,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4128,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      14448,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      15921,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3204,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      31227,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      90246,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      27714,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2094,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5601,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      21621,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      15660,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      21933,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      30294,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      22239,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      22134,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      14493,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      13197,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      8742,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      11232,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      15597,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      10593,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      8433,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      13812,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      8010,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5886,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3108,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4473,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2625,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3081,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1737,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2820,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3036,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2418,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1659,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2152,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1410,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      669,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      966,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      906,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      738,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      342,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      216,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      153,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      287,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      171,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      21,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      63,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      27,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      36,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "440",
+    "year": "2018",
+    "totalRecords": 57,
+    "totalCount": 477303,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

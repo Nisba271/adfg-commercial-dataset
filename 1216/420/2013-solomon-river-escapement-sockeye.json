@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      420,
+      1216,
+      "Solomon River",
+      "Sockeye"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1,
+      420,
+      1216,
+      "Solomon River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1216,
+    "species_id": "420",
+    "year": "2013",
+    "totalRecords": 2,
+    "totalCount": 1,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

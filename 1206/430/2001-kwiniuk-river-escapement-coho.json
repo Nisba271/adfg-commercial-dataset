@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      0,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      3,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      12,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      9,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      36,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      18,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      6,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      27,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      21,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      57,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      24,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      72,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      153,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      144,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      177,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      698,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      398,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      351,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      258,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      264,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      405,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      96,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      270,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      279,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      150,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      321,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      330,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      465,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      654,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      198,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      741,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      441,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      417,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      168,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      87,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      93,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      219,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      231,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      60,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      120,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      384,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "430",
+    "year": "2001",
+    "totalRecords": 41,
+    "totalCount": 8857,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2001-12-31T00:00:00"
+  }
+}

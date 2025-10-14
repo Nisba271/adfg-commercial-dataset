@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      0,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      11,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      3,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      12,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      18,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      8,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      23,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      13,
+      420,
+      1215,
+      "Snake River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "420",
+    "year": "2008",
+    "totalRecords": 11,
+    "totalCount": 97,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

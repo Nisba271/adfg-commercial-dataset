@@ -1,0 +1,499 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      0,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      5,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      10,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      18,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      23,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      26,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      29,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      67,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      66,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      75,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      44,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      48,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      52,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      95,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      50,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      175,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      173,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      553,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      210,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      798,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      502,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      71,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      181,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      725,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      987,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1071,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      736,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1336,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      691,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      730,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      830,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      454,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      223,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      316,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      642,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      350,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      423,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      327,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      283,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      239,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      198,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      166,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      142,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      109,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      137,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      122,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      113,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      93,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      31,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      24,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      17,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "430",
+    "year": "2012",
+    "totalRecords": 53,
+    "totalCount": 14793,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

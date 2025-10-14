@@ -1,0 +1,679 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      0,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      19,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      21,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      6,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      15,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      176,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      69,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      162,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      358,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      241,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      527,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      537,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      982,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      904,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1515,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1007,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3011,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2254,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1341,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      909,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1263,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1366,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2463,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2544,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2580,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2599,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2570,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2516,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2437,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2335,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      929,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3164,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3334,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3178,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2401,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1722,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1110,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1176,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      864,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      849,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      838,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      770,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      721,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      546,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      598,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      522,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      460,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      399,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      28,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      524,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      352,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      275,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      104,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      250,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      85,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      116,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      92,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      97,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      67,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      65,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      25,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      41,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      32,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      24,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      16,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      11,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      4,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      10,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      7,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      8,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 73,
+    "totalCount": 62547,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      15,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      57,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      120,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      18,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      153,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      105,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      24,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      33,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      114,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1602,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      696,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      4148,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6009,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6057,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11928,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11679,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      418,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1791,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2511,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11004,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      5949,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      893,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1783,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2673,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11757,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      49524,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      62955,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      72191,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      83541,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      32742,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      13692,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      143934,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      116694,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      34239,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      43878,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      71068,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      43985,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      24110,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      23315,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      16594,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      8522,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      17315,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      30264,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      14493,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      9468,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11208,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      362,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      8113,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      5676,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      4522,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      5397,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2307,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3699,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3414,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2082,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      831,
+      440,
+      1205,
+      "Inglutalik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "440",
+    "year": "2015",
+    "totalRecords": 58,
+    "totalCount": 1041678,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

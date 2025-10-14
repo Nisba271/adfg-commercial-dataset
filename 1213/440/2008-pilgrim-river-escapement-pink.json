@@ -1,0 +1,490 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      9,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      41,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      257,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      300,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      449,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      51,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      284,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      420,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      180,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      429,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1719,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2419,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2124,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      5321,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6692,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      5095,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      8074,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6354,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      3051,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6906,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6998,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      5346,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      5084,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      3759,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      3877,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2287,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1338,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1315,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1834,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2294,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      876,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1825,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      965,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      983,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1060,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      440,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      678,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      635,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      320,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      126,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      86,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      106,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      76,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      50,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      33,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      29,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      20,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      16,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "440",
+    "year": "2008",
+    "totalRecords": 52,
+    "totalCount": 92640,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      229,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      1580,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      2000,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      4190,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      2721,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      2531,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      3675,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      2392,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      1142,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      2075,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      1074,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      557,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      4097,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      12026,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      6416,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      4951,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      4830,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      3501,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      3132,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      3407,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      2866,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      1607,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      1745,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      3697,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      3567,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      2909,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      1571,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      953,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      717,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      1726,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      857,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      536,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      611,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      570,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      76,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      184,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      0,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      195,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      74,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      375,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      177,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      360,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      201,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ],
+    [
+      1982,
+      "January, 1 1982 0:00:00",
+      180,
+      440,
+      1208,
+      "Noatak River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1208,
+    "species_id": "440",
+    "year": "1982",
+    "totalRecords": 44,
+    "totalCount": 92280,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1982-12-31T00:00:00"
+  }
+}

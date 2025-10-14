@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      6,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      5,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      62,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      21,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      29,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      28,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      8,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      19,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      36,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      10,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "410",
+    "year": "1992",
+    "totalRecords": 14,
+    "totalCount": 230,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

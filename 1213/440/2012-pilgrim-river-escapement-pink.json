@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      9,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      10,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      39,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      860,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3033,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2807,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2486,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1219,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3163,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      4573,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2512,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      4297,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      4107,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      4249,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      3695,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1600,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      424,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2056,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      239,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      376,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1526,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      910,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      161,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      108,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      81,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      149,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      162,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      294,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      117,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      212,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      195,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      116,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      109,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      142,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      41,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      22,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      21,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      27,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      25,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      16,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "440",
+    "year": "2012",
+    "totalRecords": 43,
+    "totalCount": 46195,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

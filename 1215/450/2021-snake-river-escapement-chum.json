@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      12,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      8,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      7,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      4,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      37,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      2,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      56,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      40,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      18,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      11,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      9,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      58,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      41,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      26,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      124,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      138,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      5,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "450",
+    "year": "2021",
+    "totalRecords": 20,
+    "totalCount": 600,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

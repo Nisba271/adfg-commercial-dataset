@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      6,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      78,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      341,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      238,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      234,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      125,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      112,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      131,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      259,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      156,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      150,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      482,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      363,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      235,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      221,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      261,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      209,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1981,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1445,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1594,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      566,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1739,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1494,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1421,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      949,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1505,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      825,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      1680,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      508,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      619,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      583,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      741,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      575,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      699,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      417,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      266,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      75,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      61,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      54,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      53,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      48,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      28,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      4,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2001,
+      "January, 1 2001 0:00:00",
+      0,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "440",
+    "year": "2001",
+    "totalRecords": 44,
+    "totalCount": 23531,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2001-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      4,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      28,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      238,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      334,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      742,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1402,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      132,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      286,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      905,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      772,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      662,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      322,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      586,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      608,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1156,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      498,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      403,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      246,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      152,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      262,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      190,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      310,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      395,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      245,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      102,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      42,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      18,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      38,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      34,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      49,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      116,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      124,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      62,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      22,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      48,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      16,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      9,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      10,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      6,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      8,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      5,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      7,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      0,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "450",
+    "year": "2000",
+    "totalRecords": 44,
+    "totalCount": 11596,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

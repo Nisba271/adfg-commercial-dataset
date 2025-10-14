@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      16,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      8,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      17,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      4,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      55,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      172,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      97,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      66,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      149,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      2,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      15,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      26,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      275,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      147,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      93,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      138,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      84,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      69,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      121,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      132,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      106,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      123,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      96,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      173,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      114,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      184,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      374,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      234,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      322,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      215,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      376,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      320,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      387,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "450",
+    "year": "2022",
+    "totalRecords": 36,
+    "totalCount": 4714,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

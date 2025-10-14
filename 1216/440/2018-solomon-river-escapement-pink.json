@@ -1,0 +1,319 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1480,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      495,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2376,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1997,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      10072,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      26499,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      42838,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      12050,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      7112,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      12925,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      8141,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9815,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      12250,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      28750,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      23425,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      42560,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      22970,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      32630,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      26926,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      24820,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      37228,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      21541,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      16046,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4139,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3260,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4500,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3016,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3139,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5136,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2648,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2031,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2320,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      900,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1216,
+    "species_id": "440",
+    "year": "2018",
+    "totalRecords": 33,
+    "totalCount": 456035,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

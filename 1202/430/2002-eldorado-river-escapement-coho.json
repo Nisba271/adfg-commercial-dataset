@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      0,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      24,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      27,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      9,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      12,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      3,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      42,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      212,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      172,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      5,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "430",
+    "year": "2002",
+    "totalRecords": 13,
+    "totalCount": 515,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

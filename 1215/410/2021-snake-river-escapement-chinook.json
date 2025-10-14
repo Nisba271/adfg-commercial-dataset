@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      410,
+      1215,
+      "Snake River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1,
+      410,
+      1215,
+      "Snake River",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      2,
+      410,
+      1215,
+      "Snake River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "410",
+    "year": "2021",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

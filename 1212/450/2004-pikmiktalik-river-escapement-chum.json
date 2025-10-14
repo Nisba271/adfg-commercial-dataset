@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      0,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      12,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      21,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      39,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      30,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      117,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      6,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      159,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      597,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      474,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      210,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      78,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      315,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      111,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      141,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      90,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      324,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      255,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      123,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      372,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      258,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      567,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      87,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      234,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      744,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      180,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      25,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      84,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      162,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      195,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      165,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      120,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      357,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      168,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      51,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      15,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      75,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      108,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      42,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      60,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      57,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      99,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      24,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      9,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      126,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      36,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      93,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      50,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      18,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      3,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "450",
+    "year": "2004",
+    "totalRecords": 50,
+    "totalCount": 7686,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      508,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1284,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      442,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1711,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2036,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      820,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3855,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2392,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      5836,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3651,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      4475,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      5155,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3189,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      4375,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1106,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      553,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2626,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2471,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2312,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1991,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1905,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2945,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2273,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2115,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1597,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1141,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      370,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1075,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      487,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      791,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      277,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      548,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      643,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      287,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      105,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      405,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      166,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      195,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      309,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      393,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      189,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      289,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      263,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      245,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      153,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      187,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      175,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      152,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      193,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      192,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      125,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      177,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      244,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      202,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      159,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      217,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      243,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      176,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      180,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      157,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      117,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      107,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      118,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      84,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      95,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      37,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      71,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      104,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      59,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      63,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      86,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      53,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      32,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      39,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      25,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      52,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      61,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      0,
+      420,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "420",
+    "year": "2007",
+    "totalRecords": 78,
+    "totalCount": 73936,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      32,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      40,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      0,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      19,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      49,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      204,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      165,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      240,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      208,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      113,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      277,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      444,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      352,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      334,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1511,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2885,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      5210,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      4182,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      4007,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      11397,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2844,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      5936,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      14111,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      8950,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      16696,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      21550,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      32648,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      35567,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      31504,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      18379,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      49940,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      43404,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      27832,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      69731,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      81865,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      48712,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      3896,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      6084,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1853,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      3609,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1658,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2379,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1168,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1106,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "1981",
+    "totalRecords": 44,
+    "totalCount": 563091,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1981-12-31T00:00:00"
+  }
+}

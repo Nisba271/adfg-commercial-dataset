@@ -1,0 +1,508 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      5,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      9,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      13,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      23,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      25,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      44,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      29,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      42,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      11,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      27,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      82,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      191,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      268,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      154,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      208,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      197,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      70,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      152,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      67,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      57,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      37,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      288,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      754,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      813,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1600,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      2413,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      2203,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      4144,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      2898,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      831,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1228,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      416,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      586,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3108,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1832,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      562,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1237,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1106,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      974,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      854,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      731,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      618,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      521,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      439,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      357,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      291,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      163,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      112,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      170,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      167,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      150,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      80,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 54,
+    "totalCount": 33358,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

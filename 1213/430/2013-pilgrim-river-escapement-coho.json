@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      7,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      2,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      6,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      15,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      9,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      4,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      10,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      13,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      26,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      65,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      25,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      71,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      20,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      19,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      327,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      167,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      5,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "430",
+    "year": "2013",
+    "totalRecords": 20,
+    "totalCount": 795,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

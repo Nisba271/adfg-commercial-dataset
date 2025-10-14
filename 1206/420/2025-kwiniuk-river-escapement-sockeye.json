@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      15,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      9,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      27,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      24,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      21,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      18,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      51,
+      420,
+      1206,
+      "Kwiniuk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "420",
+    "year": "2025",
+    "totalRecords": 10,
+    "totalCount": 174,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

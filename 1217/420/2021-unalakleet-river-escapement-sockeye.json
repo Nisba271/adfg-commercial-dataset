@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      10,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      2,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      5,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      9,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      110,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      76,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      66,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      95,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      49,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      38,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      89,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      39,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      52,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      139,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      73,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      100,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      40,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      102,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      109,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      25,
+      420,
+      1217,
+      "Unalakleet River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 22,
+    "totalCount": 1229,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

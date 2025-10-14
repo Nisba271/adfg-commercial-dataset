@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      2,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      6,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      4,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      14,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      20,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      27,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      17,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      33,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      25,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      26,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      72,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      9,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      50,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      77,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      92,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      269,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      222,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      365,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      75,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      411,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      457,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      275,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      383,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      589,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      612,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      347,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1596,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1041,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      688,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      659,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      623,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      576,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      480,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      402,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      483,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      138,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      194,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      190,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      231,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      183,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      147,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      123,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      99,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      79,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      61,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      47,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      36,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      22,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      10,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      13,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      7,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      8,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "430",
+    "year": "2013",
+    "totalRecords": 55,
+    "totalCount": 12619,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      4,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      14,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      58,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      82,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      35,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      7,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      9,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      22,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      38,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      44,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      21,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      55,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      30,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      34,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      5,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      46,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      6,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      24,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      75,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      40,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      42,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      8,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      17,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      20,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      16,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "420",
+    "year": "2009",
+    "totalRecords": 28,
+    "totalCount": 755,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

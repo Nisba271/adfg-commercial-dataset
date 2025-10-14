@@ -1,0 +1,310 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      7,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      22,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      20,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      26,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      11,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      12,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      13,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      88,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      56,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      71,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      80,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      259,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      242,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      50,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      72,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      60,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      92,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      114,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      39,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      82,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      90,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      106,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      43,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      14,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      10,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "1998",
+    "totalRecords": 32,
+    "totalCount": 1707,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

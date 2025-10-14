@@ -1,0 +1,319 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      15,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      30,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      57,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      126,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      69,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      249,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      456,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      135,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      531,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      240,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      105,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      687,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      141,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      651,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      510,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      858,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      327,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      336,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      369,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      492,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      396,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      111,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      36,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      78,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      129,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      123,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      441,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      207,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      348,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      120,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      18,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      9,
+      430,
+      1206,
+      "Kwiniuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 33,
+    "totalCount": 8400,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

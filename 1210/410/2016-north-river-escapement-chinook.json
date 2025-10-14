@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      9,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      15,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      24,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      39,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      63,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      12,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      21,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      114,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      30,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      18,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 13,
+    "totalCount": 354,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

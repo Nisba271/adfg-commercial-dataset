@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      0,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      2,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      1,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      6,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      3,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      16,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      17,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      10,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      43,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      9,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      5,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      11,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      18,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      38,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      57,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      58,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      78,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      97,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      109,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      149,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      159,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      172,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      195,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      222,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      216,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      114,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      42,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      212,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      259,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      306,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      395,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      278,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      232,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      429,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      1678,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      1154,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      631,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      485,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      356,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      243,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      410,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      482,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      373,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      399,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      738,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      418,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      47,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      294,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      206,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      177,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      88,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      74,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      91,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      76,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      61,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      45,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      12,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "430",
+    "year": "1996",
+    "totalRecords": 57,
+    "totalCount": 12496,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

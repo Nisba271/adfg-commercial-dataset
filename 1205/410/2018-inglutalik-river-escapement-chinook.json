@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      24,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      15,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      42,
+      410,
+      1205,
+      "Inglutalik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "410",
+    "year": "2018",
+    "totalRecords": 7,
+    "totalCount": 99,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      122,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      3014,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1346,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      536,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2311,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2586,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      853,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      268,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2972,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      426,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      968,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      8259,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      159,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2418,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1544,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      4729,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      2145,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      3266,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      4760,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1957,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1681,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      902,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      272,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      732,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      248,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      433,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1082,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1429,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1072,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      1739,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      786,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      414,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      855,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      265,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      63,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      75,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1983,
+      "January, 1 1983 0:00:00",
+      144,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1983",
+    "totalRecords": 38,
+    "totalCount": 56831,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1983-12-31T00:00:00"
+  }
+}

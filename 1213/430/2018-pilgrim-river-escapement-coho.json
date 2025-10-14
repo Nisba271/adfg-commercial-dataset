@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      10,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      19,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      22,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      16,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      24,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      14,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      25,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      27,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      23,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "430",
+    "year": "2018",
+    "totalRecords": 12,
+    "totalCount": 195,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

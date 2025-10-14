@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      3,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      18,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      33,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1314,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      501,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      549,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      108,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      588,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      291,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      27,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      9,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2439,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      439,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      570,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      213,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      565,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      891,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      684,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1089,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      321,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      408,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      453,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      699,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      234,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      282,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "440",
+    "year": "2003",
+    "totalRecords": 26,
+    "totalCount": 12728,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

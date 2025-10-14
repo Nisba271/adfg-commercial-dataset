@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      0,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      102,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      21,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      99,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      58,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      448,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      17,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      33,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      5,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      3,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      18,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      20,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      11,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      10,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      7,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1008,
+    "species_id": "410",
+    "year": "1981",
+    "totalRecords": 17,
+    "totalCount": 855,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1981-12-31T00:00:00"
+  }
+}

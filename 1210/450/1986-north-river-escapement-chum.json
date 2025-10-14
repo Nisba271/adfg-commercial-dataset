@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      0,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      14,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      68,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      226,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      254,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      222,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      215,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      440,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      46,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      183,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      124,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      129,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      90,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      240,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      234,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      170,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      152,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      146,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      205,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      394,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      76,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      110,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "1986",
+    "totalRecords": 22,
+    "totalCount": 3738,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1986-12-31T00:00:00"
+  }
+}

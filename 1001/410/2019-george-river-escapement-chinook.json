@@ -1,0 +1,985 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      19,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      52,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      112,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      202,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      20,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      392,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      54,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      41,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      93,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      7,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      23,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      129,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      148,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      121,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      274,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      79,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      249,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      172,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      115,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      55,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      204,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      151,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      59,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      122,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      142,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      96,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      87,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      24,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      61,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      80,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      43,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      10,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      21,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      25,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      17,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      16,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      27,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      14,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      22,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      11,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      15,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      8,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      5,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      76,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      188,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      390,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      410,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      802,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      856,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      897,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      990,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      997,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1020,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1149,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1297,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1418,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1692,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1771,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2020,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2192,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2307,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2362,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2566,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2717,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2776,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2898,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3040,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3136,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3223,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3247,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3301,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3362,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3455,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3535,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3578,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3588,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3609,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3634,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3651,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3671,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3687,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3714,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3728,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3732,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3754,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3760,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3771,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3786,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3796,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3799,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3807,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3810,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3812,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3815,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3817,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3818,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3823,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3824,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3826,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3827,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3828,
+      410,
+      1001,
+      "George River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "410",
+    "year": "2019",
+    "totalRecords": 107,
+    "totalCount": 164988,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

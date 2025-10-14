@@ -1,0 +1,688 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      5,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      11,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      13,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      21,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      40,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      48,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      60,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      98,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      109,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      165,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      515,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      964,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      703,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1006,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1133,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1741,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2285,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1665,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1965,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2077,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2991,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3391,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2413,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3695,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1606,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2022,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2030,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3096,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3140,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4061,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2877,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2754,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3349,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2629,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2057,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2156,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1330,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1339,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1380,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1266,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1157,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      994,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      720,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      668,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      315,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      438,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      246,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      266,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      243,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      183,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      172,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      205,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      156,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      138,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      197,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      175,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      72,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      37,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      36,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      32,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      53,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      25,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      27,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      19,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      22,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      16,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      8,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      7,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 74,
+    "totalCount": 70849,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

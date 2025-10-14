@@ -1,0 +1,598 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      0,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      4,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      47,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      37,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      27,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      130,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      115,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      215,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      269,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      419,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      430,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      575,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      673,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      466,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      73,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      696,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      157,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      800,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      133,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      391,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      542,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      912,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      603,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      831,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1052,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      612,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      272,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      468,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      911,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      429,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      842,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      386,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      460,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      529,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      881,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      458,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      443,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      260,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      227,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      207,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      186,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      150,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      110,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      102,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      118,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      67,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      31,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      17,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      22,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      19,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      32,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      11,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      34,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      30,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      26,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      23,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      20,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      15,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      13,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      9,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      8,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      7,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      6,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      5,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "450",
+    "year": "2010",
+    "totalRecords": 64,
+    "totalCount": 18043,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

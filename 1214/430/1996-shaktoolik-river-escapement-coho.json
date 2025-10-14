@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      0,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      21,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      50,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      114,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      186,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      136,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      194,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      246,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      472,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      166,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "430",
+    "year": "1996",
+    "totalRecords": 10,
+    "totalCount": 1585,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

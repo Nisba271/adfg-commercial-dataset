@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      7,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      12,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      309,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3585,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2274,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      755,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      105,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      594,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1827,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2099,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3112,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1035,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1729,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3758,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3886,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1556,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1725,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      584,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      408,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      452,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2116,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2544,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2200,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2695,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      718,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      378,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      282,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      745,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1161,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      958,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1841,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1393,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      557,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      255,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1812,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1330,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1171,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1100,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      440,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      340,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      413,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      499,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      128,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      32,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      122,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      154,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      93,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      63,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      51,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      46,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      43,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      90,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      27,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      24,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "420",
+    "year": "2017",
+    "totalRecords": 57,
+    "totalCount": 55636,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

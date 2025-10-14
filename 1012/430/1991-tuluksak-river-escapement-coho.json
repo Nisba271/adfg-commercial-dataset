@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      0,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      1,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      2,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      4,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      3,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      16,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      19,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      20,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      25,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      26,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      55,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      66,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      70,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      89,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      42,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      59,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      52,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      380,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      139,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      79,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      135,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      150,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      149,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      165,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      193,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      356,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      389,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      898,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      312,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      180,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      157,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      98,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      40,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      45,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      35,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      29,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      24,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      33,
+      430,
+      1012,
+      "Tuluksak River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "430",
+    "year": "1991",
+    "totalRecords": 38,
+    "totalCount": 4535,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1991-12-31T00:00:00"
+  }
+}

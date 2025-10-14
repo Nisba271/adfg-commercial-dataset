@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      0,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      618,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      520,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1139,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2447,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2934,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      6158,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      8790,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      10611,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      8834,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      9924,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      11871,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      22765,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      30368,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      38609,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      56742,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      58323,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      66548,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      56954,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      27738,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      28719,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      19251,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      31485,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      32387,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      25098,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      16797,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      15757,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "440",
+    "year": "2012",
+    "totalRecords": 27,
+    "totalCount": 591387,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

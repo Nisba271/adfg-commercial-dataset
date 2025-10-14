@@ -1,0 +1,508 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      55,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      60,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      752,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      662,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1398,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      238,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      664,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      2607,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      5656,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3871,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      331,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      807,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      823,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      637,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1063,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      2131,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      459,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1055,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1684,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1225,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      634,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1324,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1149,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1590,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      550,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      933,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1178,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1938,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1911,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1253,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1817,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      2203,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      894,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      416,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      635,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      486,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      100,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      450,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      109,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      132,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      209,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      111,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      67,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      212,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      79,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      83,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      41,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      129,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      39,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      25,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      8,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      30,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      13,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "440",
+    "year": "2022",
+    "totalRecords": 54,
+    "totalCount": 46927,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

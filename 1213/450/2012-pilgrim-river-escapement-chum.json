@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      0,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      18,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      39,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      225,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      984,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      726,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      672,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      817,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      341,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1018,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      727,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      668,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1155,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      776,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1214,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1360,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      366,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      146,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      965,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      288,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      453,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      789,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      716,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      234,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      219,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      232,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      418,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      509,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      642,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      308,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      595,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      862,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      748,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      850,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1320,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      458,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      502,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      436,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      496,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      952,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      932,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      510,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      8,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "450",
+    "year": "2012",
+    "totalRecords": 43,
+    "totalCount": 25694,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

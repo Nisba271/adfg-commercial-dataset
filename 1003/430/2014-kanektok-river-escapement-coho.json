@@ -1,0 +1,247 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      0,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      2,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      4,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      43,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      35,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      22,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      27,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      41,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      44,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      97,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      130,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      158,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      85,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      117,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      262,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      280,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      167,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      305,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      165,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      310,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      301,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      295,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      190,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      496,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1165,
+      430,
+      1003,
+      "Kanektok River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 25,
+    "totalCount": 4741,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

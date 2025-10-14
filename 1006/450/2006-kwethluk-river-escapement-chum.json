@@ -1,0 +1,670 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      0,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      10,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      32,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      74,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      136,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      237,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      374,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      544,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      738,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      954,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1171,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1392,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1265,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2059,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2075,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2143,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1419,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2973,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3036,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2601,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1359,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      420,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      887,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2345,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2094,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2956,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1417,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1801,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      487,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      579,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      228,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      400,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1333,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      779,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      656,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      385,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      164,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      63,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      194,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      513,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      614,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      747,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      451,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      292,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      305,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      378,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      140,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      243,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      229,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      227,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      257,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      141,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      101,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      61,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      37,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      33,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      28,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      25,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      22,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      19,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      17,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      14,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      13,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      11,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      9,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      8,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3,
+      450,
+      1006,
+      "Kwethluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "450",
+    "year": "2006",
+    "totalRecords": 72,
+    "totalCount": 46737,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

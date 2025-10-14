@@ -1,0 +1,256 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      18,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      6,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      30,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      117,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      924,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      25,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      141,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      54,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      387,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      129,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      39,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      15,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1629,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      144,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      231,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      282,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      360,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      219,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1314,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      243,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      36,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      78,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      145,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      102,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      183,
+      450,
+      1212,
+      "Pikmiktalik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "450",
+    "year": "2003",
+    "totalRecords": 26,
+    "totalCount": 6851,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

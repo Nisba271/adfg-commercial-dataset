@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      8,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      5,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      24,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      20,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      21,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      15,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      52,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      36,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      103,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      161,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      298,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      122,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      286,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      120,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      227,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      497,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      526,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      968,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1557,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1484,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1519,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      797,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      920,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      921,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      707,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      716,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      859,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      884,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      801,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1059,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      468,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1206,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      788,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      550,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1008,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1204,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1404,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      848,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      343,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      84,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      384,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      273,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      271,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      175,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      203,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      229,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      128,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      134,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      196,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      191,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      208,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      132,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      136,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      138,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      142,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      129,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      139,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      160,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      153,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      141,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      107,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      74,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      80,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      70,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      60,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      61,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      67,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      55,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      43,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      29,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      42,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      46,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      37,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      35,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      23,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      31,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      34,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      30,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      18,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      22,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      10,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "420",
+    "year": "2017",
+    "totalRecords": 84,
+    "totalCount": 28255,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

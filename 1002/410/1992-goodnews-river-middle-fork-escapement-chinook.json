@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      34,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      31,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      4,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      11,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      16,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      26,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      39,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      52,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      66,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      76,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      6,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      20,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      87,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      86,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      59,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      54,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      64,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      151,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      41,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      60,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      82,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      69,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      45,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      46,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      50,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      33,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      30,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      48,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      17,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      10,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      9,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      8,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      7,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      5,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "410",
+    "year": "1992",
+    "totalRecords": 38,
+    "totalCount": 1448,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

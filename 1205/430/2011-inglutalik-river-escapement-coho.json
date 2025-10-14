@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      6,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      5,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      9,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      486,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      190,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      34,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      84,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      18,
+      430,
+      1205,
+      "Inglutalik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "430",
+    "year": "2011",
+    "totalRecords": 11,
+    "totalCount": 850,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

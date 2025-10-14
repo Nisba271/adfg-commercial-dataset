@@ -1,0 +1,31 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      410,
+      1202,
+      "Eldorado River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 1,
+    "totalCount": 0,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

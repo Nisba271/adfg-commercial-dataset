@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      420,
+      1210,
+      "North River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      18,
+      420,
+      1210,
+      "North River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      24,
+      420,
+      1210,
+      "North River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      6,
+      420,
+      1210,
+      "North River",
+      "Sockeye"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      12,
+      420,
+      1210,
+      "North River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "420",
+    "year": "2022",
+    "totalRecords": 5,
+    "totalCount": 60,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      0,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      1,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      6,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      4,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      5,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      8,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      7,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      17,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      175,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      9,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      34,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      38,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      21,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      58,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "430",
+    "year": "1999",
+    "totalRecords": 14,
+    "totalCount": 383,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      0,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      4,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      38,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      7,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      15,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      8,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      68,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      13,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      18,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      5,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      50,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      35,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      28,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      63,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      65,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      41,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      95,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      64,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      47,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      49,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      163,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      70,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      21,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      85,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      205,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      531,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      797,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      613,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      329,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      191,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      719,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1493,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      411,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      601,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1112,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      395,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1994,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2230,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      684,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2736,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1764,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1057,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1451,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1031,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1102,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1535,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      942,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1329,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1801,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      605,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2832,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1197,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1305,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1259,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1209,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1158,
+      430,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "430",
+    "year": "2008",
+    "totalRecords": 57,
+    "totalCount": 37672,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

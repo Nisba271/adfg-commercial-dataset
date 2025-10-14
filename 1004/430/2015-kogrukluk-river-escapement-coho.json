@@ -1,0 +1,553 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      9,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      8,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      24,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      21,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      18,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      11,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      10,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      19,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      22,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      14,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      25,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      144,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      215,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      165,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      265,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      150,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      133,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      82,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      262,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      92,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      137,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      426,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      528,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      112,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      75,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      20,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      30,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      977,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      923,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1394,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3630,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      5764,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2017,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      835,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2878,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1419,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1300,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1853,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      958,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      740,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      908,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      640,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      786,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      707,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      764,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      252,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      226,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      145,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      116,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      157,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      184,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      146,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      113,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "2015",
+    "totalRecords": 59,
+    "totalCount": 32865,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

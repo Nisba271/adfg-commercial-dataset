@@ -1,0 +1,319 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      78,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2150,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2177,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      5812,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6546,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6341,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      15963,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      16415,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      11137,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      20220,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      22142,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      20879,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      11032,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      26869,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      26597,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      35944,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      26354,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      25029,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      25641,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      21199,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      22824,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      21703,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      16399,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      13027,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      14114,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      10207,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6413,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      4832,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      4661,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      4289,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6324,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2936,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2804,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 33,
+    "totalCount": 459058,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

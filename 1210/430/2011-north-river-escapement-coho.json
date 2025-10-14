@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      6,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      18,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      12,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      35,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      14,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      114,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      126,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      102,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      30,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      72,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      36,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      84,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      96,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      73,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      50,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      39,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      24,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      48,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      78,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      66,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      15,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      99,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      74,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      68,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      57,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      77,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      86,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      104,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      119,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      122,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      127,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      135,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      142,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      240,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      132,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      234,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      192,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      123,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      150,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      222,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      90,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      120,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "430",
+    "year": "2011",
+    "totalRecords": 43,
+    "totalCount": 3851,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

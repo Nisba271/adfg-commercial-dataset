@@ -1,0 +1,355 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      28,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      55,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      0,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      23,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      16,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      120,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      143,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      165,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      167,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2980,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      3871,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      9525,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      10952,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      12379,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2483,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      7448,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      13985,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2596,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      6931,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      5545,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      9415,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      13286,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      32063,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      4677,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      8218,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      8628,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      4310,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      670,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2862,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      3553,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      3727,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      4660,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      4424,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      4190,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      3216,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      611,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "1988",
+    "totalRecords": 37,
+    "totalCount": 187924,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1988-12-31T00:00:00"
+  }
+}

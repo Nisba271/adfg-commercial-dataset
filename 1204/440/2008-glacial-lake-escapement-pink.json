@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      0,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      12,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      14,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      26,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      53,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      74,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      247,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      47,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      459,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      22,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      95,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      19,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      445,
+      440,
+      1204,
+      "Glacial Lake",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1204,
+    "species_id": "440",
+    "year": "2008",
+    "totalRecords": 14,
+    "totalCount": 1519,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

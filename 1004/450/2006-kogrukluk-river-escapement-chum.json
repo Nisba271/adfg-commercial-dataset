@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      336,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      957,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1351,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2042,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2503,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3216,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4833,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      6799,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7720,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      6412,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7435,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5954,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7137,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5007,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      6614,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5894,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5028,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4653,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5891,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4762,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5823,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7326,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7210,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      7669,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5947,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5582,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4496,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4246,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3684,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3549,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2916,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2291,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2329,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2422,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2203,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2318,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2500,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2216,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2071,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1362,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1039,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1011,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      476,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      524,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      601,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      826,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      762,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      700,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      646,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      596,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      552,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      515,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      469,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      439,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      401,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      371,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      346,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      320,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      296,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      26,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      19,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      12,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      11,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      9,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      8,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      6,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "2006",
+    "totalRecords": 71,
+    "totalCount": 183698,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      12,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      18,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      27,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      75,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      39,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      129,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      51,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      96,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      24,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      840,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      396,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      684,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      315,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      624,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      387,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      822,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3981,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3783,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1926,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1704,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      36,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      57,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      52,
+      450,
+      1218,
+      "Ungalik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1218,
+    "species_id": "450",
+    "year": "2021",
+    "totalRecords": 25,
+    "totalCount": 16081,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

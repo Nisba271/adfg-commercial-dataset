@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      0,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      62,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      8,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      56,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      47,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      27,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      183,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      340,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      6,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      127,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      373,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      292,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      58,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      607,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      1156,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      84,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      86,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      10,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      14,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      44,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      74,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      32,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      24,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      46,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      89,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      42,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      18,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      37,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      201,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      1993,
+      "January, 1 1993 0:00:00",
+      70,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "430",
+    "year": "1993",
+    "totalRecords": 30,
+    "totalCount": 4213,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1993-12-31T00:00:00"
+  }
+}

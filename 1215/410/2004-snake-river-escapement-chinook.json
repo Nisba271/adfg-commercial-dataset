@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      0,
+      410,
+      1215,
+      "Snake River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1,
+      410,
+      1215,
+      "Snake River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      2,
+      410,
+      1215,
+      "Snake River",
+      "Chinook"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      5,
+      410,
+      1215,
+      "Snake River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "410",
+    "year": "2004",
+    "totalRecords": 4,
+    "totalCount": 8,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

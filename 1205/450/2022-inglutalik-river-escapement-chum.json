@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      240,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      981,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      357,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      156,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      165,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      117,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      171,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      390,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      417,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      564,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      507,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      129,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      183,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      315,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      63,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      33,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      18,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      333,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      234,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      414,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      9,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      48,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      66,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      27,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      21,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      78,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      12,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      15,
+      450,
+      1205,
+      "Inglutalik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1205,
+    "species_id": "450",
+    "year": "2022",
+    "totalRecords": 30,
+    "totalCount": 6066,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

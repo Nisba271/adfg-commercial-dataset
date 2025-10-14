@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      0,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      4,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      20,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      123,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      208,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      131,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      206,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      314,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      520,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      1228,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      1580,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      861,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      605,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      316,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      426,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      639,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      471,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      1044,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      7694,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      6626,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      7088,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      9965,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      10540,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      13976,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      4750,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      12273,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      4992,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      3608,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2982,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2455,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2404,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      4343,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      6162,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2334,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2516,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2772,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2842,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2560,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      1279,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      1058,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      506,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      696,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      711,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      645,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      564,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      423,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      172,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      43,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "440",
+    "year": "1997",
+    "totalRecords": 48,
+    "totalCount": 127675,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

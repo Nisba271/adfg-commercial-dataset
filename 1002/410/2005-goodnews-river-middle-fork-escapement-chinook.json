@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      59,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      171,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      340,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      268,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      177,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      63,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      124,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      288,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      274,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      236,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      240,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      317,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      130,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      250,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      74,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      41,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      86,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      78,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      179,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      365,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      75,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      36,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      51,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      6,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      17,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      31,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      88,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      14,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      48,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      27,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      16,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      26,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      35,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      19,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      42,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      13,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      18,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      10,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      9,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      5,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      8,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      24,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "410",
+    "year": "2005",
+    "totalRecords": 46,
+    "totalCount": 4384,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

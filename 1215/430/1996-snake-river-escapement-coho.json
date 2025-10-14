@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      0,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      16,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      2,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      6,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      14,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      36,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      26,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      20,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      10,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      12,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      19,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      35,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      38,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      53,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      68,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      70,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      141,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      71,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      187,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      148,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      46,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      24,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      67,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      62,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      52,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      64,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      90,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      66,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      40,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      30,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "430",
+    "year": "1996",
+    "totalRecords": 30,
+    "totalCount": 1513,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

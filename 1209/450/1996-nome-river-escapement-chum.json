@@ -1,0 +1,229 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      0,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      12,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      6,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      76,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      134,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      119,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      69,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      300,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      579,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      251,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      152,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      330,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      260,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      306,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      4,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      42,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      43,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      86,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      130,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      81,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      22,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      82,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      255,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "450",
+    "year": "1996",
+    "totalRecords": 23,
+    "totalCount": 3339,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

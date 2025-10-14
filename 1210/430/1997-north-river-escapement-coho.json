@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      0,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      3,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      6,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      9,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      17,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      19,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      26,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      20,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      40,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      18,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      34,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      22,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      32,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      55,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      94,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      174,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      156,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      266,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      190,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      157,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      110,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      79,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      113,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      98,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      120,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      334,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      340,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      333,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      344,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      290,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      195,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      191,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      166,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      182,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      196,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      225,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      129,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      10,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "430",
+    "year": "1997",
+    "totalRecords": 38,
+    "totalCount": 4793,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

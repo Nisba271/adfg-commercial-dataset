@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      92,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      56,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      314,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      144,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      904,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      582,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      687,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      1117,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      2195,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      1081,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      970,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      1407,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      1054,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      1159,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      470,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      380,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      623,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      998,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      681,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      1178,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      307,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      769,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      1228,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      362,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      211,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      315,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      140,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      17,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      135,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      29,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1969,
+      "January, 1 1969 0:00:00",
+      195,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1969",
+    "totalRecords": 31,
+    "totalCount": 19800,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1969-12-31T00:00:00"
+  }
+}

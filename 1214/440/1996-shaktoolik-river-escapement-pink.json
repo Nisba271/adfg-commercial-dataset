@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      0,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      51,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      61,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      3,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      91,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      24,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      189,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      350,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      469,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      105,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      246,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      272,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      516,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      450,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      378,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      989,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      3119,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      5390,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      7016,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      22115,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      51996,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      81870,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      45020,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      143896,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      72211,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      908,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      1348,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      7747,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      14136,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      10594,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      7871,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      14730,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      22867,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      31152,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      28429,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      25698,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      19662,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      3189,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "440",
+    "year": "1996",
+    "totalRecords": 38,
+    "totalCount": 625158,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

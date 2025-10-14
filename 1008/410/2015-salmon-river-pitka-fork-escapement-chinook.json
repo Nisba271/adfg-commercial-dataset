@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      19,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      81,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      111,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      35,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      164,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      102,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      116,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      15,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      533,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      248,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      68,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      87,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      113,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      341,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      624,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      380,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      240,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      905,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      147,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      112,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      271,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      221,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      331,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      398,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      295,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      243,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      100,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      82,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      55,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      148,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      26,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      67,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      39,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      20,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      30,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      22,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      16,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      14,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      5,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      9,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      10,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1008,
+    "species_id": "410",
+    "year": "2015",
+    "totalRecords": 46,
+    "totalCount": 6855,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

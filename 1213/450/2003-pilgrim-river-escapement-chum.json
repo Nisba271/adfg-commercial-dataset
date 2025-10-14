@@ -1,0 +1,688 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      13,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      3,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      17,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      4,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      8,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      177,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      116,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      10,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      133,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      236,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      61,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      440,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      301,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      124,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      19,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      112,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      174,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      384,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      708,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      523,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      226,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      9,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      139,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      273,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      281,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      119,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      393,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      293,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      367,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      214,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      338,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      271,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      924,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      222,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      404,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      263,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      168,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      467,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      432,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      166,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      365,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      490,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      158,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      108,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      446,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      493,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      259,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      129,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      147,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      195,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      431,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      114,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      155,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      371,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      181,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      310,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      145,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      102,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      27,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      66,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      52,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      84,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      36,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      44,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      40,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      94,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      38,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      22,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      25,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      21,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      12,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      11,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "450",
+    "year": "2003",
+    "totalRecords": 74,
+    "totalCount": 14704,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

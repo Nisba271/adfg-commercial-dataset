@@ -1,0 +1,373 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      2,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      5,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      12,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      10,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      7,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      19,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      72,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      31,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      131,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      33,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      162,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      288,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      303,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      409,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      79,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      528,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      45,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      309,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      125,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      119,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      70,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      246,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      143,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      212,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      15,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      144,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      68,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      111,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      74,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      41,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      32,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      16,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      23,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      26,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      4,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      11,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1008,
+    "species_id": "410",
+    "year": "2021",
+    "totalRecords": 39,
+    "totalCount": 3929,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

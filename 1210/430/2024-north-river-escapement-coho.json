@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      15,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      12,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      30,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "430",
+    "year": "2024",
+    "totalRecords": 6,
+    "totalCount": 66,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

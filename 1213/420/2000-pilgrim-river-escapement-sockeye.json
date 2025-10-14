@@ -1,0 +1,328 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      18,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      262,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1104,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      851,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      880,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1489,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2129,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1253,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1047,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      252,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      117,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      378,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      227,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      122,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      175,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      213,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      237,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      147,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      97,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      50,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      145,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      178,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      19,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      248,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      91,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      87,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      84,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      45,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      61,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      23,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      8,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      6,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      0,
+      420,
+      1213,
+      "Pilgrim River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "420",
+    "year": "2000",
+    "totalRecords": 34,
+    "totalCount": 12046,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

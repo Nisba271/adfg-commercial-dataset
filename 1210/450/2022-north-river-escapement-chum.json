@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      6,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      30,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      27,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      21,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      24,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      81,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      57,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      183,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      150,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      72,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      108,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      9,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      12,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      39,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      36,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "2022",
+    "totalRecords": 17,
+    "totalCount": 858,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

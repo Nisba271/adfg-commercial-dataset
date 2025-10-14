@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      14,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      20,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      21,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      28,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      12,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      32,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      30,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "430",
+    "year": "1998",
+    "totalRecords": 8,
+    "totalCount": 157,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

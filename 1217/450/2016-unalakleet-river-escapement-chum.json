@@ -1,0 +1,382 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      10,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      67,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      114,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      63,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      23,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      273,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      494,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      97,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      300,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      312,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      632,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1493,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3735,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1689,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1055,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      850,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      541,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      338,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      178,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      404,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      787,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      835,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      824,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1242,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      827,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      572,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1605,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      953,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3447,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2383,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1719,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      842,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      334,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      370,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      938,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      655,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      729,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      22,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "450",
+    "year": "2016",
+    "totalRecords": 40,
+    "totalCount": 31754,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

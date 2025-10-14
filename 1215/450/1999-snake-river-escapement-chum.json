@@ -1,0 +1,148 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      0,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      31,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      3,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      13,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      39,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      25,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      37,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      106,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      54,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      4,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      22,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      48,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      6,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      1,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "450",
+    "year": "1999",
+    "totalRecords": 14,
+    "totalCount": 389,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

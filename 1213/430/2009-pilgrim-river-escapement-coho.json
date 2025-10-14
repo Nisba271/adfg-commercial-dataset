@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      0,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2,
+      430,
+      1213,
+      "Pilgrim River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "430",
+    "year": "2009",
+    "totalRecords": 4,
+    "totalCount": 6,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

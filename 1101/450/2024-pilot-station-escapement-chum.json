@@ -1,0 +1,877 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8339,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5114,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3230,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4325,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7877,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6488,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1066,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      624,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      473,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      432,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4182,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4284,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4209,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4599,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      13594,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10527,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7982,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4412,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6000,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8278,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10667,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3434,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      2176,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1301,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      441,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      621,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1202,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      2745,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3762,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10138,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8094,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5562,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6146,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5262,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      9007,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      12994,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7415,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      12485,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8514,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5717,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4541,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1958,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      2354,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      634,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      401,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1047,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1675,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      4214,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1670,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      2052,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      2400,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      275,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      672,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      309,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      399,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      468,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      413,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1114,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1189,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      2859,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6083,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5415,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8095,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      11795,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      8854,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      12554,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10043,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10036,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7101,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      19683,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      50863,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      42743,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      30436,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      11746,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      18158,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      43143,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      30234,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      54295,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      26294,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      13358,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      40071,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      88376,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      57837,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      34193,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      16702,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      19305,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6772,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10228,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      14783,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7938,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      10849,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      7530,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      9052,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      5997,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "450",
+    "year": "2024",
+    "totalRecords": 95,
+    "totalCount": 1004924,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

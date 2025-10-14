@@ -1,0 +1,751 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      7,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      8,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      23,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      32,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      52,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      49,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      18,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      25,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      103,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      66,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      331,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      220,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      469,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      566,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      312,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      555,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1423,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      812,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      489,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      781,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1394,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1288,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1671,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1249,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1996,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2194,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1918,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2976,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3085,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2294,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3191,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1871,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1082,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1583,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1217,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1530,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1239,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1259,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1188,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1083,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      438,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      876,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      787,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      203,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      591,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      389,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      231,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      173,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      501,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      347,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      296,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      300,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      392,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      334,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      187,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      200,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      249,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      150,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      87,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      48,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      61,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      62,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      28,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      35,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      47,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      15,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      17,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      40,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      38,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      20,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      14,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      10,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      13,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6,
+      450,
+      1001,
+      "George River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "450",
+    "year": "2018",
+    "totalRecords": 81,
+    "totalCount": 48858,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

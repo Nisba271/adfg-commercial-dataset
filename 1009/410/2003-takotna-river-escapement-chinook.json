@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      10,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      5,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      4,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      6,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      37,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      23,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      16,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      24,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      9,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      22,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      26,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      8,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      15,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      11,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      7,
+      410,
+      1009,
+      "Takotna River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1009,
+    "species_id": "410",
+    "year": "2003",
+    "totalRecords": 18,
+    "totalCount": 226,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

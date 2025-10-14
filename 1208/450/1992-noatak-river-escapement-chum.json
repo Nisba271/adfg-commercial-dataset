@@ -1,0 +1,121 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2799,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1054,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2192,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      767,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      4495,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      10373,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3785,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      13932,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      12969,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      6130,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      11883,
+      450,
+      1208,
+      "Noatak River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1208,
+    "species_id": "450",
+    "year": "1992",
+    "totalRecords": 11,
+    "totalCount": 70379,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

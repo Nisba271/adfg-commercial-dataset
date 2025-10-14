@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      0,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      2,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      3,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      9,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      12,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      22,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      26,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      37,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      8,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      11,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      16,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      39,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      74,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      51,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      150,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      67,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      28,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      57,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      68,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      64,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      81,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      46,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      34,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      48,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      27,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      14,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      15,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      13,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      1,
+      410,
+      1010,
+      "Tatlawiksuk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "410",
+    "year": "2008",
+    "totalRecords": 29,
+    "totalCount": 1023,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

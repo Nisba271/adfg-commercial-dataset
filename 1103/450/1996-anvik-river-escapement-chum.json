@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      10213,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      4615,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      16836,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      43565,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      34257,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      50000,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      63193,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      28156,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      35303,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      46390,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      34348,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      33115,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      45936,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      58459,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      55211,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      39335,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      44112,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      61740,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      38482,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      49067,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      34221,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      23194,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      18093,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      10579,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      13038,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      12871,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      10077,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      7411,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      7173,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      4250,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "450",
+    "year": "1996",
+    "totalRecords": 30,
+    "totalCount": 933240,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

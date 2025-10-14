@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      15,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      27,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      24,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      45,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      66,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      12,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      21,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      30,
+      430,
+      1218,
+      "Ungalik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1218,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 10,
+    "totalCount": 243,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

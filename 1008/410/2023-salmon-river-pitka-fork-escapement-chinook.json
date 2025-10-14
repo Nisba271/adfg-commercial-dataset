@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      5,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      10,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      16,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      15,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      8,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      11,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      207,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      48,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      89,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      475,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      255,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      211,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      193,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      669,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      380,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      342,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      29,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      137,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      135,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      157,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      275,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      212,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      222,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      101,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      96,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      66,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      67,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      92,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      46,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      47,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      39,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      18,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      12,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      23,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      13,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      9,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      4,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      2,
+      410,
+      1008,
+      "Salmon River (Pitka Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1008,
+    "species_id": "410",
+    "year": "2023",
+    "totalRecords": 41,
+    "totalCount": 4740,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

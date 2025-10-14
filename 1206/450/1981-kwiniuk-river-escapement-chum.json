@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      192,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      58,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      32,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      282,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      479,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1350,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1025,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1132,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      567,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      60,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      471,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1381,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      735,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      203,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      3655,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1884,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1816,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1327,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      343,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2990,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      529,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      398,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      2182,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      959,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1782,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1560,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      842,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      709,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      901,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      476,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1219,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      797,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      1002,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      581,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      290,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      81,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      109,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      34,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      43,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      19,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      15,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      12,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1981,
+      "January, 1 1981 0:00:00",
+      6,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1981",
+    "totalRecords": 44,
+    "totalCount": 34528,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1981-12-31T00:00:00"
+  }
+}

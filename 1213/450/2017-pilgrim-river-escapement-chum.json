@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      9,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      19,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      126,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      869,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      500,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      16,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      113,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      177,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      896,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1642,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      431,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      233,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1090,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2161,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1316,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2372,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      871,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      380,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      560,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3016,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2440,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2197,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3050,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      991,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      180,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      443,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      796,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2676,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      390,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1717,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      951,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      615,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      213,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      809,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1397,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1624,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1416,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1087,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      546,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      906,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1030,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1005,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      314,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      544,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1193,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      617,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      573,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      403,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      514,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      326,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      554,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      655,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      504,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      588,
+      450,
+      1213,
+      "Pilgrim River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "450",
+    "year": "2017",
+    "totalRecords": 56,
+    "totalCount": 50063,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

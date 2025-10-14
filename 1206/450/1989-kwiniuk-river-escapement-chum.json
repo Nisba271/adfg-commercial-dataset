@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      8,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      2,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      236,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      2318,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      3885,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      481,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      446,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      768,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      238,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      104,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      1112,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      932,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      519,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      106,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      50,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      610,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      878,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      324,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      378,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      287,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      195,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      220,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      44,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      58,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      24,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      31,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      37,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1989,
+      "January, 1 1989 0:00:00",
+      18,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1989",
+    "totalRecords": 28,
+    "totalCount": 14309,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1989-12-31T00:00:00"
+  }
+}

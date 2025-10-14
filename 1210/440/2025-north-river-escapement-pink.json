@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      666,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1338,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      459,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      183,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      339,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1296,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      861,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1074,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1737,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      198,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      687,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      723,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      702,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      798,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      546,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      165,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      54,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      141,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      231,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      147,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      69,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      18,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      12,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      30,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "440",
+    "year": "2025",
+    "totalRecords": 27,
+    "totalCount": 12483,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

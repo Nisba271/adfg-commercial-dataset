@@ -1,0 +1,319 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      110,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      132,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      184,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      258,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      266,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      306,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      261,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      587,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      288,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      222,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      247,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      154,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      198,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      47,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      61,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      76,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      392,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      284,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      244,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      123,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      60,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      62,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      45,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      44,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      26,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      28,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      5,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      20,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      93,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      21,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      4,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      6,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      0,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "440",
+    "year": "1997",
+    "totalRecords": 33,
+    "totalCount": 4854,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

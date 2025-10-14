@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      15,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      168,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      63,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      84,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3261,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      492,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      549,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      135,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      132,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      927,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      780,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      399,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      552,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      768,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      192,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      117,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      162,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      312,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      246,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      213,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      210,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      264,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      180,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      105,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      66,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      102,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      120,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      111,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      54,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      57,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "430",
+    "year": "2015",
+    "totalRecords": 31,
+    "totalCount": 10836,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

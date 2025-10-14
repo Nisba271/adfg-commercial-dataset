@@ -1,0 +1,229 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      6,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      7,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      5,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      18,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      20,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      2,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      11,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      4,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      9,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      30,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      15,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      52,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      13,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      111,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      19,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      16,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      43,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      10,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      93,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      22,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      3,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      0,
+      410,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "410",
+    "year": "2014",
+    "totalRecords": 23,
+    "totalCount": 510,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

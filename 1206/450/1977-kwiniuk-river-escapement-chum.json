@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      12,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      266,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      202,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      215,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      1455,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      851,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      1242,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      486,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      1497,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      1010,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      1280,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      3753,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      2805,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      1568,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      1963,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      1177,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      178,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      433,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      754,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      118,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      290,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      252,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      253,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      155,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      176,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      275,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      108,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      67,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1977,
+      "January, 1 1977 0:00:00",
+      34,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1977",
+    "totalRecords": 30,
+    "totalCount": 22875,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1977-12-31T00:00:00"
+  }
+}

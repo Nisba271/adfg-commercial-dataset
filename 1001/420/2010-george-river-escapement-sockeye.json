@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      0,
+      420,
+      1001,
+      "George River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1,
+      420,
+      1001,
+      "George River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      4,
+      420,
+      1001,
+      "George River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3,
+      420,
+      1001,
+      "George River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      8,
+      420,
+      1001,
+      "George River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      5,
+      420,
+      1001,
+      "George River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2,
+      420,
+      1001,
+      "George River",
+      "Sockeye"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      6,
+      420,
+      1001,
+      "George River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "420",
+    "year": "2010",
+    "totalRecords": 8,
+    "totalCount": 29,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

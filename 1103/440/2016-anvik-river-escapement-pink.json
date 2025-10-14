@@ -1,0 +1,310 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      37,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      27,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      41,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      178,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      53,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      166,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      470,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      359,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      920,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1919,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2526,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      5680,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      6954,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      9097,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      16737,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      19791,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      22646,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      42650,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      37073,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      32005,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      21658,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      26888,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      31248,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      27293,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      20080,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      29660,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      47131,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      42572,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      56851,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      76621,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      91323,
+      440,
+      1103,
+      "Anvik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "440",
+    "year": "2016",
+    "totalRecords": 32,
+    "totalCount": 670654,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

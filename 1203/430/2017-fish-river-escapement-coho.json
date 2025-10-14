@@ -1,0 +1,283 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      12,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      18,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      78,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      144,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      120,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      330,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      204,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      168,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      318,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      594,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      924,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      996,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      864,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      792,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      810,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      690,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      822,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      486,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      918,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      675,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      560,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      729,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      258,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      474,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      360,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      420,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1164,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "430",
+    "year": "2017",
+    "totalRecords": 29,
+    "totalCount": 13934,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

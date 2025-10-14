@@ -1,0 +1,202 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      6,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      5,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      17,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      86,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      253,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      175,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      74,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      82,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      111,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      203,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      248,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      318,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      218,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      143,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      193,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      200,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      246,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "430",
+    "year": "2022",
+    "totalRecords": 20,
+    "totalCount": 2582,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

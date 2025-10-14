@@ -1,0 +1,391 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      5,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      36,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      143,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      45,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      245,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1751,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      693,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1990,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1361,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      402,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      942,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      235,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1211,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1871,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1095,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      264,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      335,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1080,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1115,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      493,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      974,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      96,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      203,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      518,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      103,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      528,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      121,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      205,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      101,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      76,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      136,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      83,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      120,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      68,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      8,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      46,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      24,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      13,
+      440,
+      1216,
+      "Solomon River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1216,
+    "species_id": "440",
+    "year": "2015",
+    "totalRecords": 41,
+    "totalCount": 18739,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

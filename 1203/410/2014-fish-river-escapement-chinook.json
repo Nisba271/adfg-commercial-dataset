@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      0,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      27,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      45,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      12,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      51,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      21,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      36,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      57,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      60,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      42,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      90,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      81,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      63,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      71,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      39,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      72,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      6,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      19,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      46,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      44,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      37,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      30,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      25,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      16,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      10,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      7,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      2,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1,
+      410,
+      1203,
+      "Fish River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "410",
+    "year": "2014",
+    "totalRecords": 28,
+    "totalCount": 1010,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      5,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      16,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      58,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      90,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      120,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      428,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      150,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      105,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      173,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      208,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      229,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      215,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      317,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      394,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1028,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      848,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1044,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      860,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      653,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      934,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1312,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      959,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      85,
+      430,
+      1217,
+      "Unalakleet River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "430",
+    "year": "2011",
+    "totalRecords": 24,
+    "totalCount": 10231,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      33,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      99,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      90,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      96,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      108,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      111,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      117,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      150,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      195,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      432,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      156,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      390,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      480,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1131,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      822,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      657,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      48,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      183,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      558,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      603,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      810,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2193,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1359,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      561,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      774,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      312,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1224,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1233,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1893,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      747,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      816,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      357,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      234,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      174,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      273,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      75,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "430",
+    "year": "2018",
+    "totalRecords": 39,
+    "totalCount": 19506,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

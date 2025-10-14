@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      12,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      18,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      36,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      72,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      198,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      132,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      222,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      294,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      432,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      630,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      810,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      672,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      378,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      408,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      354,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      264,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      180,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      348,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      594,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      822,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      678,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      624,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      396,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      659,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1091,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      660,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      732,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      691,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      60,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "430",
+    "year": "2015",
+    "totalRecords": 31,
+    "totalCount": 12473,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

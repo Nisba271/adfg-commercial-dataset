@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      27,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      6,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      30,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      12,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      39,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      9,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "410",
+    "year": "2005",
+    "totalRecords": 8,
+    "totalCount": 126,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

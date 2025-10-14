@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      145,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      396,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      232,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      855,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1477,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1006,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1046,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      919,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1557,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3724,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1460,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2490,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2367,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      5333,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2784,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2763,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2259,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      4699,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3961,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1734,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2310,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1907,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1507,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2145,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2101,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1149,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1014,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1355,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2144,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2313,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      220,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      254,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      275,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      190,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      184,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      141,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      138,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      121,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      21,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      238,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      399,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      36,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      20,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "440",
+    "year": "2000",
+    "totalRecords": 43,
+    "totalCount": 61389,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

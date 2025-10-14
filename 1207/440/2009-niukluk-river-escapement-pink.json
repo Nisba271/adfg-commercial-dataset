@@ -1,0 +1,427 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1980,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      987,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      108,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      96,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      501,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      462,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      72,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      318,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      795,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2610,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      543,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      210,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      180,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      513,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      279,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      297,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      993,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1968,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1650,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      2742,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      1014,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      756,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      663,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      429,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      834,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      270,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      507,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      420,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      198,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      222,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      363,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      261,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      228,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      111,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      48,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      66,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      123,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      33,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      42,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      18,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      36,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      15,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      9,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      0,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "440",
+    "year": "2009",
+    "totalRecords": 45,
+    "totalCount": 23973,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

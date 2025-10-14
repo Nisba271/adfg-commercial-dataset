@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      114,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      45,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      99,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      105,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      36,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      6,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      21,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      24,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      27,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      39,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      48,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      30,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      9,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "430",
+    "year": "2023",
+    "totalRecords": 15,
+    "totalCount": 606,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

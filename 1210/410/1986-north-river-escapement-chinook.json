@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      2,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      34,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      74,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      42,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      40,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      128,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      12,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      100,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      172,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      122,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      96,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      126,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      214,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      63,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      64,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      71,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      81,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      72,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      39,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1986,
+      "January, 1 1986 0:00:00",
+      56,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "1986",
+    "totalRecords": 22,
+    "totalCount": 1614,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1986-12-31T00:00:00"
+  }
+}

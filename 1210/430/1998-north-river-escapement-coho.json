@@ -1,0 +1,175 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      20,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      36,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      54,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      42,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      28,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      52,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      70,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      98,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      100,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      126,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      297,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      232,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      246,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      262,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      346,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      198,
+      430,
+      1210,
+      "North River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "430",
+    "year": "1998",
+    "totalRecords": 17,
+    "totalCount": 2207,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

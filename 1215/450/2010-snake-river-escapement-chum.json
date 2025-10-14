@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      0,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      7,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      12,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      305,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      817,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      37,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      41,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      24,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      158,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      21,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      179,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      32,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      48,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      329,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      485,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      392,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      67,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      360,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      262,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      671,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      178,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      85,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      84,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      375,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      211,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      201,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      143,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      192,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      20,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      103,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      102,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      130,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      83,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      46,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      51,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      75,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      30,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      50,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      43,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      16,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      14,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      5,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      11,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      15,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      17,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      10,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      13,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      8,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      6,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "450",
+    "year": "2010",
+    "totalRecords": 50,
+    "totalCount": 6565,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

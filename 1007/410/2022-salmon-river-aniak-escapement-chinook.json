@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      8,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      1,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      12,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      63,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      22,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      54,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      55,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      98,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      116,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      43,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      2,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      278,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      16,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      62,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      23,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      66,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      89,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      68,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      111,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      13,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      24,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      15,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      36,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      49,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      58,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      31,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      17,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      6,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      5,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3,
+      410,
+      1007,
+      "Salmon River (Aniak)",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1007,
+    "species_id": "410",
+    "year": "2022",
+    "totalRecords": 31,
+    "totalCount": 1444,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

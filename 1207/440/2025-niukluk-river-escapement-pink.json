@@ -1,0 +1,472 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      27,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      294,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      72,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      69,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      87,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      633,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1563,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1818,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      594,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1382,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      369,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      99,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      222,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      33,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      576,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1065,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      780,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      288,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      867,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2268,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1425,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1182,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      981,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      939,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1032,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1443,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4389,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      789,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1281,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      822,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      600,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      552,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      783,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      798,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1206,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1188,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      717,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      720,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      414,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      498,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      336,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      291,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      162,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      84,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      264,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      207,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      24,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "440",
+    "year": "2025",
+    "totalRecords": 50,
+    "totalCount": 36242,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

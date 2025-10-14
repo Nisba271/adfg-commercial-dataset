@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      15,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      21,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      144,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      138,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      75,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      438,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      207,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      117,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      693,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1551,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      513,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      339,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      48,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      36,
+      420,
+      1218,
+      "Ungalik River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1218,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 16,
+    "totalCount": 4338,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

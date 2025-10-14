@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      2,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      1,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      0,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      7,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      5,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      4,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      41,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      19,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      102,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      108,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      121,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      152,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      348,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      118,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      245,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      165,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      515,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      607,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      669,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      601,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      330,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      383,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      179,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      233,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      310,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      732,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      491,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      299,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      302,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      574,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      336,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      1030,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      1275,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      642,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      476,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      587,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      619,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      90,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      475,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      503,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      269,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      244,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      220,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      197,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      420,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      237,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      147,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      158,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      128,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      93,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      64,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      11,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      159,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      40,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      43,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      73,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      25,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      35,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      38,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      26,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      8,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      27,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      10,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      9,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      3,
+      450,
+      1002,
+      "Goodnews River (Middle Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1002,
+    "species_id": "450",
+    "year": "1997",
+    "totalRecords": 65,
+    "totalCount": 16380,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

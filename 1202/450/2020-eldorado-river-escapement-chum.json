@@ -1,0 +1,346 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      0,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      26,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      15,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      100,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      140,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      33,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      169,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      91,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      115,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      609,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      976,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      450,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      146,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1082,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      105,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      49,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      997,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      545,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1280,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      488,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      209,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      380,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      639,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      411,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      787,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      204,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      347,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      149,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      124,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      93,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      305,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      130,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      45,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 36,
+    "totalCount": 11251,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

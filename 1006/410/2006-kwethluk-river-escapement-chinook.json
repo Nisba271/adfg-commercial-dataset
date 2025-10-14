@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      0,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      14,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      33,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      67,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      126,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      194,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      285,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      385,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      498,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      593,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      687,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      160,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1200,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1708,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      896,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      805,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      1129,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      494,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      355,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      764,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      482,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      250,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      170,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      202,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      275,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      821,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      612,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      707,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      514,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      341,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      302,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      111,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      309,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      299,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      84,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      123,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      25,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      68,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      116,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      133,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      131,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      96,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      26,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      17,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      28,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      10,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      24,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      18,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      20,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      15,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      9,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      8,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      6,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "410",
+    "year": "2006",
+    "totalRecords": 58,
+    "totalCount": 16760,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1101,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1360,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      933,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      120,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "430",
+    "year": "1992",
+    "totalRecords": 5,
+    "totalCount": 3514,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

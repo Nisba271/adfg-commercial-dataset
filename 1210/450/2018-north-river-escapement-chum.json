@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      9,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      165,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      198,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      90,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      825,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      618,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      72,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1548,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4395,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      636,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      66,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      153,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      699,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      297,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      678,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1113,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      504,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      915,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      276,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      498,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      369,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      588,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1368,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1329,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1896,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      999,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      399,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      216,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      759,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      264,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      201,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      405,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      432,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      582,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      281,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      166,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      50,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      84,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      123,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      30,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      114,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      36,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      42,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      15,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      54,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      24,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "2018",
+    "totalRecords": 49,
+    "totalCount": 24590,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

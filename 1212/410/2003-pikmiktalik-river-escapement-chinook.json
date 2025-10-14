@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      6,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      3,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      33,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      51,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      60,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      21,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      9,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      18,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      30,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      27,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      12,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      42,
+      410,
+      1212,
+      "Pikmiktalik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "410",
+    "year": "2003",
+    "totalRecords": 13,
+    "totalCount": 312,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

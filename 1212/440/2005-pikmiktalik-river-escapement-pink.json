@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      0,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      6,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      9,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      48,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      168,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      90,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      219,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      666,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      291,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      840,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      117,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1140,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      933,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3324,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      5247,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      7905,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1818,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      4428,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1494,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      251,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1863,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      5103,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      15894,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1593,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      864,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      261,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      87,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      114,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      61,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      495,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      45,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      312,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      120,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      327,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      72,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      81,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      18,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      66,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      24,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      30,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      36,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      96,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      27,
+      440,
+      1212,
+      "Pikmiktalik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "440",
+    "year": "2005",
+    "totalRecords": 44,
+    "totalCount": 56586,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

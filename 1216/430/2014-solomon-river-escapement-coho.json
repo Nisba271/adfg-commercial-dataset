@@ -1,0 +1,94 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      0,
+      430,
+      1216,
+      "Solomon River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1,
+      430,
+      1216,
+      "Solomon River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      4,
+      430,
+      1216,
+      "Solomon River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      2,
+      430,
+      1216,
+      "Solomon River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      5,
+      430,
+      1216,
+      "Solomon River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      11,
+      430,
+      1216,
+      "Solomon River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      22,
+      430,
+      1216,
+      "Solomon River",
+      "Coho"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      6,
+      430,
+      1216,
+      "Solomon River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1216,
+    "species_id": "430",
+    "year": "2014",
+    "totalRecords": 8,
+    "totalCount": 51,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

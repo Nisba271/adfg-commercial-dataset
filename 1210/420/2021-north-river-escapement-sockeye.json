@@ -1,0 +1,40 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      0,
+      420,
+      1210,
+      "North River",
+      "Sockeye"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      3,
+      420,
+      1210,
+      "North River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "420",
+    "year": "2021",
+    "totalRecords": 2,
+    "totalCount": 3,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

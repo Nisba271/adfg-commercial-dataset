@@ -1,0 +1,661 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      369,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      424,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      349,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      794,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      609,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      525,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      562,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      685,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      394,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1703,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      366,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      242,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      608,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      972,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1078,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1311,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1466,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2254,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8173,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      11953,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3130,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6729,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1695,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2833,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1406,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6594,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      10861,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5802,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3314,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2500,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3982,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2466,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2080,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3714,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1767,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2462,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1807,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1349,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      953,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1131,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      737,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      540,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      549,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      235,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      221,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      279,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      358,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      487,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      445,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      62,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      41,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      90,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      87,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      94,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      57,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      82,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      95,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      102,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      104,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      433,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      198,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      136,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      129,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      217,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      254,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      229,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      68,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      54,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      45,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      75,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "410",
+    "year": "1998",
+    "totalRecords": 71,
+    "totalCount": 107915,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

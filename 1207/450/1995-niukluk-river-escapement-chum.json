@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      180,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      228,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      201,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      304,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      310,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      730,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1736,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      2979,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      4222,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1884,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1903,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      3527,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      5184,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      7303,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      5764,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      4224,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      4262,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      5927,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1247,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1029,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1907,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      3805,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      5702,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      4239,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1883,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1987,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1583,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      2032,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1431,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      830,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1492,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      355,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      878,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      728,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      573,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      545,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      482,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      280,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      99,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      63,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      211,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      277,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      257,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      246,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      276,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      293,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      221,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      141,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      40,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      0,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      8,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      45,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      75,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      22,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      55,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      28,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      34,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      7,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      18,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      15,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      1,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      4,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      2,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      10,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      5,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ],
+    [
+      1995,
+      "January, 1 1995 0:00:00",
+      6,
+      450,
+      1207,
+      "Niukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "450",
+    "year": "1995",
+    "totalRecords": 66,
+    "totalCount": 86335,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1995-12-31T00:00:00"
+  }
+}

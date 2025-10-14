@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      10,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      9,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      22,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      94,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      192,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      325,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      233,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      650,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      872,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      967,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      803,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      345,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      99,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      559,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1151,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1099,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1243,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1143,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1051,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1065,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      592,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      408,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1881,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2673,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3066,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2564,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1416,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1105,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      864,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      727,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      426,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      552,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1296,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      796,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      602,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      445,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      280,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      458,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      270,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      190,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      102,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      70,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      33,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      39,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      43,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      24,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      28,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      56,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      27,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      19,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "2000",
+    "totalRecords": 55,
+    "totalCount": 32994,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

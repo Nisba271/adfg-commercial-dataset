@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      0,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      3,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      6,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      15,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      12,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      48,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      27,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      9,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      24,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      63,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      81,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      147,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      96,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      111,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      129,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      162,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      102,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      165,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      189,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      228,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      183,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      204,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      261,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      588,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      627,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      405,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      366,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      573,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      543,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      483,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      435,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      852,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      975,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      639,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      138,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      72,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      273,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      819,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      732,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      993,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      753,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      231,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      123,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ],
+    [
+      2008,
+      "January, 1 2008 0:00:00",
+      60,
+      430,
+      1207,
+      "Niukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "430",
+    "year": "2008",
+    "totalRecords": 44,
+    "totalCount": 12945,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2008-12-31T00:00:00"
+  }
+}

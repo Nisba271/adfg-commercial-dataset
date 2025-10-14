@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      695,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      931,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1701,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      6248,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      7388,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      13358,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      15310,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      15481,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3718,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3355,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      4955,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      4993,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1479,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      4572,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      4765,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      2243,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      10924,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      9685,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      3284,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      7824,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      5535,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1555,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      2485,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      1000,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      447,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      658,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      227,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      501,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      271,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      168,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      151,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      350,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      100,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      84,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      129,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      143,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      92,
+      410,
+      1101,
+      "Pilot Station",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 38,
+    "totalCount": 136805,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

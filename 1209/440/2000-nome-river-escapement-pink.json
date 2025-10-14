@@ -1,0 +1,445 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      0,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      46,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      44,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      20,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1000,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      55,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      658,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      719,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1982,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2358,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      57,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      8,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      125,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      502,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2180,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2686,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1523,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3066,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2861,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2956,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2353,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1365,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      923,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      203,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1562,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1942,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3057,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      627,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1820,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      325,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      921,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      23,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      59,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      112,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      144,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      269,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      61,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      14,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      124,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      10,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      7,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      47,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      11,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      13,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      15,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      5,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "440",
+    "year": "2000",
+    "totalRecords": 47,
+    "totalCount": 38861,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

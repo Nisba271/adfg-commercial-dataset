@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      12,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      0,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      6,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      18,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      36,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      72,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      30,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      222,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      198,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      60,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      144,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      42,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      54,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      84,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      24,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      270,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      576,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      66,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      96,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      138,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      210,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      336,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      288,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      414,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      438,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      216,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      264,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      195,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      26,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      33,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      29,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      39,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      52,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      44,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      17,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      126,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      168,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      78,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      132,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      141,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      108,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      48,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      51,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "2007",
+    "totalRecords": 43,
+    "totalCount": 5601,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

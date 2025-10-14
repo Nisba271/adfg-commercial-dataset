@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      0,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      15,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      60,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      21,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      3,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      132,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      39,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      24,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      30,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      18,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      9,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      12,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "410",
+    "year": "2002",
+    "totalRecords": 13,
+    "totalCount": 369,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

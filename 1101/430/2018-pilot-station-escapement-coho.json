@@ -1,0 +1,364 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      0,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      29,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      28,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      524,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      481,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      633,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1930,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1314,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3151,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1085,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1385,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2094,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2786,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1998,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1997,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1443,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4309,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4134,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5557,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5799,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      6497,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5569,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      5374,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3505,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3215,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4558,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2788,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2436,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      8796,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      16850,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      10152,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      7611,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3755,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2989,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3437,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2531,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2309,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3298,
+      430,
+      1101,
+      "Pilot Station",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "430",
+    "year": "2018",
+    "totalRecords": 38,
+    "totalCount": 136347,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

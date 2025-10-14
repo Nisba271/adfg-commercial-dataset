@@ -1,0 +1,382 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      0,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      47,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      62,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      145,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      74,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      90,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      660,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      669,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1528,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5860,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8247,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      20840,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      18739,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      11053,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6252,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      7832,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      322,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1635,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6458,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4375,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2302,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3135,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      108,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      742,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      354,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      558,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      332,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      280,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      72,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      22,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      187,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      209,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      130,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      127,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      118,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      123,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      70,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      96,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      59,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      212,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "440",
+    "year": "1998",
+    "totalRecords": 40,
+    "totalCount": 104124,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

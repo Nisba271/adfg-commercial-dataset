@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      7,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      5,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      6,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      17,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      15,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      23,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      40,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      8,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      14,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      22,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      79,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      118,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      91,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      51,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      287,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      422,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      337,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      153,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      333,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      329,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      270,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      361,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      715,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      553,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1152,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1468,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1137,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1698,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      799,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      811,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1293,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1490,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      772,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      910,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1185,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1009,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      838,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      931,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1153,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      560,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      563,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      667,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      567,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      506,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      449,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      395,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      347,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      299,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      258,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      209,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      194,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      163,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      138,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      116,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      102,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      120,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      57,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      48,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "2007",
+    "totalRecords": 60,
+    "totalCount": 26662,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

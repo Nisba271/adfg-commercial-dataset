@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      0,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      1,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      9,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      3,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      5,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      2,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      13,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      34,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      25,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      15,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      8,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      52,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      185,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      201,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      163,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      106,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      74,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      49,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      111,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      16,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      435,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      128,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      118,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      24,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      11,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      4,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      259,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      947,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      463,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      312,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      359,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      470,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      472,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      473,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      544,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      242,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      137,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      67,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      225,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      226,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      162,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      145,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      124,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      103,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      84,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      76,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      60,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      51,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ],
+    [
+      1991,
+      "January, 1 1991 0:00:00",
+      39,
+      430,
+      1004,
+      "Kogrukluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "430",
+    "year": "1991",
+    "totalRecords": 49,
+    "totalCount": 7832,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1991-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      7,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      5,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      33,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      91,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      494,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      550,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      83,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      475,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      316,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      811,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      485,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      381,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      265,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      251,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      248,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      712,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1335,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      777,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      670,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      585,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      500,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1345,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1124,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      567,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      708,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      325,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      153,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      13,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      8,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "450",
+    "year": "2023",
+    "totalRecords": 31,
+    "totalCount": 13320,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

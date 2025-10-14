@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      396,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4536,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      8052,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      9708,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6069,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1245,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      144,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      96,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      105,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2034,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      5274,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      936,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      45,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      579,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      207,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      30,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      474,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      717,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      870,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      495,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      126,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      309,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      348,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      231,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      18,
+      440,
+      1218,
+      "Ungalik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1218,
+    "species_id": "440",
+    "year": "2025",
+    "totalRecords": 27,
+    "totalCount": 43050,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

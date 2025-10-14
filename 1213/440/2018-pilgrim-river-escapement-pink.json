@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      10,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      26,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      99,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      145,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      113,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      119,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      207,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      384,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      257,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      489,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2682,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      855,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      54,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      385,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      36,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      315,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1866,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4296,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3288,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3661,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      4560,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      3026,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2322,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2109,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2215,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      2268,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1569,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1194,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1719,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      765,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      861,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      606,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      1155,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      405,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      648,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      403,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      306,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      379,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      221,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      115,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      154,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      82,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      74,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ],
+    [
+      2018,
+      "January, 1 2018 0:00:00",
+      47,
+      440,
+      1213,
+      "Pilgrim River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1213,
+    "species_id": "440",
+    "year": "2018",
+    "totalRecords": 44,
+    "totalCount": 46490,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2018-12-31T00:00:00"
+  }
+}

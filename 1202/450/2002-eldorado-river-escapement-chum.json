@@ -1,0 +1,409 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      0,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      228,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      825,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      174,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      450,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      276,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      66,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      591,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      342,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      615,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      570,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      99,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      477,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      213,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      498,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      321,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      318,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      219,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      459,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      468,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      552,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      243,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      336,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      240,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      153,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      177,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      333,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      27,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      87,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      81,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      18,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      12,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      39,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      24,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      15,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      9,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      3,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      129,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      4,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      5,
+      450,
+      1202,
+      "Eldorado River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "450",
+    "year": "2002",
+    "totalRecords": 43,
+    "totalCount": 9705,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

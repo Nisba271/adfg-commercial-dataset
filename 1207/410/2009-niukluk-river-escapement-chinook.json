@@ -1,0 +1,112 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      0,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      18,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      54,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      12,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      21,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      57,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      48,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      6,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      3,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ],
+    [
+      2009,
+      "January, 1 2009 0:00:00",
+      9,
+      410,
+      1207,
+      "Niukluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "410",
+    "year": "2009",
+    "totalRecords": 10,
+    "totalCount": 228,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2009-12-31T00:00:00"
+  }
+}

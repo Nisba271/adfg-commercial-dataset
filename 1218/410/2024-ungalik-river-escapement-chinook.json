@@ -1,0 +1,58 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3,
+      410,
+      1218,
+      "Ungalik River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      410,
+      1218,
+      "Ungalik River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      12,
+      410,
+      1218,
+      "Ungalik River",
+      "Chinook"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6,
+      410,
+      1218,
+      "Ungalik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1218,
+    "species_id": "410",
+    "year": "2024",
+    "totalRecords": 4,
+    "totalCount": 21,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

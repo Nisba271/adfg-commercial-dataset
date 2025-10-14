@@ -1,0 +1,724 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      12,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      30,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      18,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      66,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      447,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      42,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1071,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      225,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1878,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      168,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1806,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      39306,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      137106,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      142455,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      111912,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      0,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      86415,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      39069,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      129033,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      229644,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      71400,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      19020,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      99711,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      478134,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      191715,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      151749,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      153627,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      200289,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      118473,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      92058,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      36822,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      64377,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      25566,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      95124,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      17679,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      53637,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      66237,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      48951,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      25779,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      25302,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      4371,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      3957,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      11577,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      6630,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      6309,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      4872,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      12297,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      8250,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      6006,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      7767,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      5274,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      6240,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      3294,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      6146,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      2337,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1632,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1094,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1102,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      1097,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      525,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      312,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      84,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      75,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      60,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      33,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      45,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      27,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      21,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      54,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      36,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      39,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      57,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      96,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      99,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      69,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      48,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      9,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      2004,
+      "January, 1 2004 0:00:00",
+      6,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "2004",
+    "totalRecords": 78,
+    "totalCount": 3058300,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2004-12-31T00:00:00"
+  }
+}

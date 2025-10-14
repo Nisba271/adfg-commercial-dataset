@@ -1,0 +1,517 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      31,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      115,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      306,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      643,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      1845,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      1380,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      1694,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      1959,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2751,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2151,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2638,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2635,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      1960,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      2078,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      1772,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      997,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      727,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      410,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      459,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      335,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      344,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      230,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      193,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      228,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      95,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      124,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      103,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      119,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      97,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      147,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      134,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      19,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      13,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      71,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      72,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      61,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      62,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      55,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      53,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      45,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      47,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      35,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      37,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      18,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      16,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      7,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      20,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      15,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      12,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      5,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      9,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1988,
+      "January, 1 1988 0:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "1988",
+    "totalRecords": 55,
+    "totalCount": 29378,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1988-12-31T00:00:00"
+  }
+}

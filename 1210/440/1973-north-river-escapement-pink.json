@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      0,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      49,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      34,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      104,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      352,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      465,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      192,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      198,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      110,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      427,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1345,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      3649,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      3190,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      2150,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      4245,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      2874,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      644,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1066,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1098,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1013,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1118,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      942,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      711,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      566,
+      440,
+      1210,
+      "North River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "440",
+    "year": "1973",
+    "totalRecords": 24,
+    "totalCount": 26542,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1973-12-31T00:00:00"
+  }
+}

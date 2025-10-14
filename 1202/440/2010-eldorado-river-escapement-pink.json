@@ -1,0 +1,247 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      16,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      9,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      256,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1174,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3105,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      547,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2275,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3904,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      11787,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3866,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      6009,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3852,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      101,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      489,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      462,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      706,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      132,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2790,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1250,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      602,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      184,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      450,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      656,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3512,
+      440,
+      1202,
+      "Eldorado River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "440",
+    "year": "2010",
+    "totalRecords": 25,
+    "totalCount": 48136,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      7,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      9,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      30,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      10,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      46,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      125,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      118,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      148,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      159,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      79,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      284,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      83,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      319,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      649,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1547,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1526,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1271,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1949,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1242,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      275,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      936,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      563,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1402,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1235,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1241,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1358,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      816,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1243,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      810,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1144,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1030,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      852,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      674,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      592,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      330,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      348,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      189,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      441,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      399,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      278,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      200,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      179,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      171,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      141,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      119,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      72,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      47,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      51,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      33,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      15,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      16,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      24,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      21,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      19,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      25,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "2025",
+    "totalRecords": 57,
+    "totalCount": 26895,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

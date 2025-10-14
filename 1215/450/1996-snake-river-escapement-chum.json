@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      86,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      226,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      176,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      170,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      22,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      224,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      186,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      245,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      279,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      104,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      84,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      96,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      48,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      90,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      163,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      125,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      116,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      158,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      50,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      9,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      33,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      35,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      28,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      34,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      1,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      0,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ],
+    [
+      1996,
+      "January, 1 1996 0:00:00",
+      5,
+      450,
+      1215,
+      "Snake River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "450",
+    "year": "1996",
+    "totalRecords": 27,
+    "totalCount": 2793,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1996-12-31T00:00:00"
+  }
+}

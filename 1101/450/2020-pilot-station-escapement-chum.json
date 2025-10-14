@@ -1,0 +1,859 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8794,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9788,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      10706,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      12688,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9408,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3766,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4196,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3816,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2171,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2808,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2810,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8235,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      22857,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      13492,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      7810,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2936,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2152,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1244,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2376,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5272,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6103,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2324,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3406,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      12225,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5391,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3447,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1576,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      870,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1378,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4460,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6492,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8347,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1835,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      983,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1542,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3132,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1899,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8676,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      15680,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2898,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1055,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1817,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      13065,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8369,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2164,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1492,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1133,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1969,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      784,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      339,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      263,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      0,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      68,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      65,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      430,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1843,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3367,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3484,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3041,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1926,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1136,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1528,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3805,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3680,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2032,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1012,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2331,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      22183,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      38193,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      27192,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      20157,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      62257,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      62954,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      39523,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      35178,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      36636,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      27424,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      18173,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      13580,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      16516,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      23477,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      20803,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      17587,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      22023,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      28805,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      17316,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      13315,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      14183,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      20243,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      15428,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      23807,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      17159,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6366,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 93,
+    "totalCount": 952665,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      100,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      372,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      1042,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      893,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      824,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      1384,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      2820,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      2314,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      8865,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      8277,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      2564,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      9584,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      1775,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      4140,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      7469,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      2525,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      5957,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      7926,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1978,
+      "January, 1 1978 0:00:00",
+      821,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "1978",
+    "totalRecords": 19,
+    "totalCount": 69652,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1978-12-31T00:00:00"
+  }
+}

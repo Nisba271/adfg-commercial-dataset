@@ -1,0 +1,571 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      0,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      225,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      364,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      406,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      857,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1700,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3229,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2438,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      638,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1525,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1627,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1469,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2382,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      601,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1190,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1660,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6682,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4027,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5375,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6281,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      11655,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5132,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9055,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      14323,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9504,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8701,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9430,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6294,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      7018,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      10116,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5566,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5833,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3377,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2642,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      7217,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6034,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6392,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4307,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5157,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3570,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2719,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1702,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1341,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      990,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4555,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2809,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1277,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1384,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1325,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      906,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1080,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      711,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      993,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      483,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      724,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      448,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      142,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      65,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      67,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      151,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      71,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "440",
+    "year": "2020",
+    "totalRecords": 61,
+    "totalCount": 207942,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

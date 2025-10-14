@@ -1,0 +1,310 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      15,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      73,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      43,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      133,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      112,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      138,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      206,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      261,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      223,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      187,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      65,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      60,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      195,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      337,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      864,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      397,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      52,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      235,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      998,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1105,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      454,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      227,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      354,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3437,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2240,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      951,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      986,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1024,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 32,
+    "totalCount": 15379,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

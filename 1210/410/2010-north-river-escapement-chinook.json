@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      18,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      30,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      12,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      42,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      24,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      44,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      78,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      126,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      63,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      36,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      48,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      60,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      90,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      54,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      15,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      10,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "2010",
+    "totalRecords": 18,
+    "totalCount": 756,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

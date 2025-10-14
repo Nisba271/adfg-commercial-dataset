@@ -1,0 +1,211 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      10142,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      17048,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      18599,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      44681,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      50906,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      36215,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      49855,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      54258,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      68213,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      52784,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      37354,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      30415,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      20199,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      16755,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      13390,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      8489,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      7440,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      5173,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      3243,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      2431,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      1496,
+      450,
+      1103,
+      "Anvik River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "450",
+    "year": "1975",
+    "totalRecords": 21,
+    "totalCount": 549086,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1975-12-31T00:00:00"
+  }
+}

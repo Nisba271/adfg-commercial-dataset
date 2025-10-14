@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      0,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      1,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ],
+    [
+      2012,
+      "January, 1 2012 0:00:00",
+      2,
+      430,
+      1215,
+      "Snake River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "430",
+    "year": "2012",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2012-12-31T00:00:00"
+  }
+}

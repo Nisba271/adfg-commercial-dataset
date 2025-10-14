@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      6,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      12,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      4,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      16,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      7,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      95,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      11,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      5,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      27,
+      430,
+      1209,
+      "Nome River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "430",
+    "year": "2025",
+    "totalRecords": 13,
+    "totalCount": 189,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

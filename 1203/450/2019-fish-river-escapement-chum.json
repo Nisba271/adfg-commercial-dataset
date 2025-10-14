@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      756,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3072,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4386,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6360,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6900,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4230,
+      450,
+      1203,
+      "Fish River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 6,
+    "totalCount": 25704,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

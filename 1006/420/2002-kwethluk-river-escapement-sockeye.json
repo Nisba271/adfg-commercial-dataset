@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      0,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      2,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      1,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      5,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      16,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      43,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      104,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      160,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      183,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      162,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      111,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      4,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      3,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      9,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      21,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      22,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      11,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      7,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      10,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      19,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      6,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ],
+    [
+      2002,
+      "January, 1 2002 0:00:00",
+      12,
+      420,
+      1006,
+      "Kwethluk River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "420",
+    "year": "2002",
+    "totalRecords": 22,
+    "totalCount": 911,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2002-12-31T00:00:00"
+  }
+}

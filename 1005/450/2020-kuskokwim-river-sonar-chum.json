@@ -1,0 +1,778 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      0,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      432,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      954,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1192,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2804,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3207,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3803,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4254,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      6748,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      8383,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      9938,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      11481,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      13314,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      13790,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      16784,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      19745,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      23855,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      25419,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      26527,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      31194,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      35289,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      42667,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      46009,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      51639,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      59346,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      61667,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      62357,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      62697,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      63303,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      63544,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      64685,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      65233,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      66515,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      67377,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      69868,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      72180,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      72480,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      73458,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      74324,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      74543,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      74807,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      75315,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      76369,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      522,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      238,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1612,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      403,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      596,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      451,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2494,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1635,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1555,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1543,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1833,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      476,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2994,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2961,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4110,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1564,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1108,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4667,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      4095,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      7378,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      3342,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      5630,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      7707,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2321,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      690,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      340,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      606,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      241,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1141,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      548,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1282,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      862,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2491,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      2312,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      300,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      978,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      866,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      219,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      264,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      508,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ],
+    [
+      2020,
+      "January, 1 2020 0:00:00",
+      1054,
+      450,
+      1005,
+      "Kuskokwim River Sonar",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1005,
+    "species_id": "450",
+    "year": "2020",
+    "totalRecords": 84,
+    "totalCount": 1775433,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2020-12-31T00:00:00"
+  }
+}

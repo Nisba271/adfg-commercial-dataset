@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      0,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      415,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      534,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      533,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      453,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2613,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2765,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2202,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1205,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2443,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2503,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2471,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2855,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      4387,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3344,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      4122,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      15935,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      8675,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      4191,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      14202,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      5139,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3533,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6489,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      9615,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6269,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      5780,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      7404,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6295,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      3832,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      4885,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2830,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1321,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2426,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      4294,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2556,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      2805,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      499,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      692,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1162,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      650,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      856,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      6383,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      1552,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      665,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      895,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      339,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      206,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      706,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ],
+    [
+      2017,
+      "January, 1 2017 0:00:00",
+      603,
+      440,
+      1101,
+      "Pilot Station",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "440",
+    "year": "2017",
+    "totalRecords": 49,
+    "totalCount": 166529,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2017-12-31T00:00:00"
+  }
+}

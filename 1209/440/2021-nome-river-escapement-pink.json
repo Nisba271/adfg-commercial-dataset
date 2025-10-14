@@ -1,0 +1,157 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      30,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      172,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      188,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      176,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      50,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      133,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      404,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      327,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      262,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      387,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      165,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      215,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      257,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      671,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ],
+    [
+      2021,
+      "January, 1 2021 0:00:00",
+      1128,
+      440,
+      1209,
+      "Nome River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "440",
+    "year": "2021",
+    "totalRecords": 15,
+    "totalCount": 4565,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2021-12-31T00:00:00"
+  }
+}

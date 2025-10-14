@@ -1,0 +1,265 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      113,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      69,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      106,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      51,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      154,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      76,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      57,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      49,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      8,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      48,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      96,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      261,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      90,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      338,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      84,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      349,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      194,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      87,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      157,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      291,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      179,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      177,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      10,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      14,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      22,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      29,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      24,
+      450,
+      1209,
+      "Nome River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1209,
+    "species_id": "450",
+    "year": "2019",
+    "totalRecords": 27,
+    "totalCount": 3133,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

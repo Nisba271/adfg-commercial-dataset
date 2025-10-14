@@ -1,0 +1,544 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      0,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      9,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      12,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      14,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      16,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      25,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      33,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      37,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      96,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      104,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      91,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      227,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      182,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      242,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      86,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      205,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      158,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      204,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      306,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      909,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      933,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1444,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1270,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      363,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1010,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      665,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1099,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2700,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1034,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      400,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      656,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      148,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      307,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      272,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1639,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3969,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      476,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      528,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      638,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      643,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      674,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      570,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      309,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      370,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      273,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      508,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      147,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      115,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      93,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      54,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      49,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      59,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      28,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      65,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      56,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      48,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      38,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      32,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "430",
+    "year": "2000",
+    "totalRecords": 58,
+    "totalCount": 26638,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

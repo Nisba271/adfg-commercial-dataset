@@ -1,0 +1,220 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      2,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      12,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      4,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      26,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      48,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      18,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      8,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      49,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      39,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      29,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      43,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      73,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      53,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      56,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      40,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      24,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      5,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      10,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      1,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      7,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1994,
+      "January, 1 1994 0:00:00",
+      3,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "410",
+    "year": "1994",
+    "totalRecords": 22,
+    "totalCount": 550,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1994-12-31T00:00:00"
+  }
+}

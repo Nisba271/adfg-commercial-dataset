@@ -1,0 +1,427 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      0,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      27,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      6,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      24,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      12,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      57,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      3,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      30,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      9,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      36,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      180,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      45,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      15,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      48,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      78,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      66,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      18,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      90,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      102,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      375,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      294,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1641,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1758,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1197,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      255,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1146,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      393,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1299,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1059,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      972,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      489,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      1362,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      576,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      114,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      456,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      258,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      144,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      291,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      921,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      99,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      141,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      234,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      666,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      163,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ],
+    [
+      2005,
+      "January, 1 2005 0:00:00",
+      147,
+      430,
+      1212,
+      "Pikmiktalik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1212,
+    "species_id": "430",
+    "year": "2005",
+    "totalRecords": 45,
+    "totalCount": 17296,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2005-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      0,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      2,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      5,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      4,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      9,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      3,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      11,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      6,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      24,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      23,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      25,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      119,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      53,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      116,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      245,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      909,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      480,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      263,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      207,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      186,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      558,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      216,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1177,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1451,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      435,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      49,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      220,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      273,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      310,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1228,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      1101,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      637,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      244,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      97,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      55,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      131,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      145,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      73,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      91,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      14,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      10,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      8,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ],
+    [
+      2000,
+      "January, 1 2000 0:00:00",
+      7,
+      430,
+      1001,
+      "George River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1001,
+    "species_id": "430",
+    "year": "2000",
+    "totalRecords": 44,
+    "totalCount": 11221,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2000-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      44,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      22,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      205,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      157,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      71,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      428,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2043,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6099,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      7330,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      13339,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      12297,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      13734,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      8172,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      12951,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      5345,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      7442,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      10926,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      10336,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      11620,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      16140,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      8140,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      8368,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3471,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      6191,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3815,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      4573,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      5427,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3829,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      3365,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2108,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2237,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1921,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      1651,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      541,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      296,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      427,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      492,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      467,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      375,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      265,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      176,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      103,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      83,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      277,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      237,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      200,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      171,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      145,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      122,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      104,
+      420,
+      1011,
+      "Telaquana River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1011,
+    "species_id": "420",
+    "year": "2019",
+    "totalRecords": 52,
+    "totalCount": 198280,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

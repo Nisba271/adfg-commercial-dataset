@@ -1,0 +1,607 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      89,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      318,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      652,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      983,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1266,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2416,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2615,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1915,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1695,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1011,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1207,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      914,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1169,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      719,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1261,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1250,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      944,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1343,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1466,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1254,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      907,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1262,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1071,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      812,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      484,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      518,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      910,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      553,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      680,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      398,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      467,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      374,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      299,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      277,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      254,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      164,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      240,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      183,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      197,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      178,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      154,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      142,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      133,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      60,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      69,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      70,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      82,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      25,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      17,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      16,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      9,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      4,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      13,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      52,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      51,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      43,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      42,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      38,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      36,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      32,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      30,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      29,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      450,
+      1004,
+      "Kogrukluk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1004,
+    "species_id": "450",
+    "year": "1992",
+    "totalRecords": 65,
+    "totalCount": 35866,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

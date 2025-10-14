@@ -1,0 +1,436 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      3,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      27,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      26,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      30,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      41,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      46,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      44,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      56,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      36,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      68,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      95,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      61,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      70,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      45,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      146,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      69,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      225,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      236,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      200,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      246,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      335,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      197,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      122,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      296,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      194,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      255,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      285,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      159,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      191,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      167,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      152,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      102,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      81,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      118,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      98,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      72,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      40,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      62,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      83,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      73,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      38,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      24,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      31,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      11,
+      410,
+      1003,
+      "Kanektok River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 46,
+    "totalCount": 4957,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      0,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      87,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      564,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      182,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      484,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      183,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      396,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      546,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      219,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      271,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      928,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      339,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      713,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      175,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1051,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1376,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2476,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      2025,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      244,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      412,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1762,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      586,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      254,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      33,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      123,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      445,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1078,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      708,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      681,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      283,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      47,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      306,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      222,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      348,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      218,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      220,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      389,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      61,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      80,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      104,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      111,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      40,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      91,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      52,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      85,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      44,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      21,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      27,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      43,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      35,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      19,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      32,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      22,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      10,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      12,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      11,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      24,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      13,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      5,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      14,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      6,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      1,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      4,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      3,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ],
+    [
+      2003,
+      "January, 1 2003 0:00:00",
+      16,
+      450,
+      1102,
+      "Andreafsky River (East Fork)",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1102,
+    "species_id": "450",
+    "year": "2003",
+    "totalRecords": 66,
+    "totalCount": 21362,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2003-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1434,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      789,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      0,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      1200,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      435,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      600,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      675,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      327,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      66,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      114,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      150,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      45,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      54,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      18,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      84,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      42,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      6,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ],
+    [
+      2023,
+      "January, 1 2023 0:00:00",
+      3,
+      440,
+      1207,
+      "Niukluk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1207,
+    "species_id": "440",
+    "year": "2023",
+    "totalRecords": 18,
+    "totalCount": 6042,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2023-12-31T00:00:00"
+  }
+}

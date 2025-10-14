@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      0,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      1,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      3,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      5,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      10,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      20,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      9,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      2,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      81,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      31,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      16,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      18,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      19,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      6,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      7,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      58,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      64,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      52,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ],
+    [
+      2016,
+      "January, 1 2016 0:00:00",
+      12,
+      410,
+      1217,
+      "Unalakleet River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "410",
+    "year": "2016",
+    "totalRecords": 19,
+    "totalCount": 414,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2016-12-31T00:00:00"
+  }
+}

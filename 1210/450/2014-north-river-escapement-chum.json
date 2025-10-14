@@ -1,0 +1,454 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      0,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      6,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      60,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      66,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      42,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      120,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      72,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      18,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      204,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      522,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1050,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      1398,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      234,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      144,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      270,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      198,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      78,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      534,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      2156,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      530,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      535,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      525,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      488,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      413,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      307,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      292,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      286,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      267,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      266,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      265,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      240,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      87,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      85,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      62,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      48,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      24,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      186,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      210,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      174,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      84,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      126,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      114,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      36,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      30,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      12,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      13,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      9,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ],
+    [
+      2014,
+      "January, 1 2014 0:00:00",
+      8,
+      450,
+      1210,
+      "North River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "450",
+    "year": "2014",
+    "totalRecords": 48,
+    "totalCount": 12894,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2014-12-31T00:00:00"
+  }
+}

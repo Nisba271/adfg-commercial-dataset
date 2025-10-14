@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      6,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      212,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      765,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      1592,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      869,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      4296,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      1053,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      1194,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      1062,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      1028,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      524,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      833,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      389,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      1806,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      3517,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      3671,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      673,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      2953,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      1582,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      4164,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      247,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      66,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1965,
+      "January, 1 1965 0:00:00",
+      358,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1965",
+    "totalRecords": 24,
+    "totalCount": 32860,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1965-12-31T00:00:00"
+  }
+}

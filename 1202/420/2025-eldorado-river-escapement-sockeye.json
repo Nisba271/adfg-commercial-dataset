@@ -1,0 +1,76 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      420,
+      1202,
+      "Eldorado River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      2,
+      420,
+      1202,
+      "Eldorado River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      1,
+      420,
+      1202,
+      "Eldorado River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      9,
+      420,
+      1202,
+      "Eldorado River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      3,
+      420,
+      1202,
+      "Eldorado River",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      5,
+      420,
+      1202,
+      "Eldorado River",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "420",
+    "year": "2025",
+    "totalRecords": 6,
+    "totalCount": 20,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      0,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      9,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      1,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      2,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      19,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      7,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      29,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      64,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      13,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      59,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      101,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      70,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      85,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      198,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      87,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      23,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      12,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      161,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ],
+    [
+      1985,
+      "January, 1 1985 0:00:00",
+      11,
+      410,
+      1206,
+      "Kwiniuk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "410",
+    "year": "1985",
+    "totalRecords": 19,
+    "totalCount": 951,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1985-12-31T00:00:00"
+  }
+}

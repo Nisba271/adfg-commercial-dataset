@@ -1,0 +1,463 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      0,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      22,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      3,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      6,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      340,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      814,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      559,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      200,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      92,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      604,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      416,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      913,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      708,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1146,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1631,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1786,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      727,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1259,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1754,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      673,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1006,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1028,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1243,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      1008,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      657,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      549,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      386,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      359,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      465,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      67,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      269,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      162,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      456,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      387,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      282,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      138,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      848,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      561,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      378,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      275,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      124,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      16,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      28,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      19,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      27,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      23,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      48,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      24,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ],
+    [
+      2024,
+      "January, 1 2024 0:00:00",
+      14,
+      450,
+      1217,
+      "Unalakleet River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1217,
+    "species_id": "450",
+    "year": "2024",
+    "totalRecords": 49,
+    "totalCount": 24500,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2024-12-31T00:00:00"
+  }
+}

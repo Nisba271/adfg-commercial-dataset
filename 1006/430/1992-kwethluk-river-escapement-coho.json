@@ -1,0 +1,562 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      7,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      5,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      8,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      12,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      6,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      13,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      38,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      67,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      57,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      62,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      27,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      40,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      116,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      489,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      159,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      106,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      355,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      133,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      237,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1255,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      793,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      609,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      894,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      616,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      752,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      612,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      701,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      822,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1651,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1748,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2125,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      6099,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3677,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1984,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1181,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1820,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2003,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2353,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3425,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1443,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      881,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1102,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2654,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      781,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      331,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      357,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      282,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      128,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      160,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      413,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      283,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      222,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      176,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      138,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      102,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      82,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      60,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      45,
+      430,
+      1006,
+      "Kwethluk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "430",
+    "year": "1992",
+    "totalRecords": 60,
+    "totalCount": 46698,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

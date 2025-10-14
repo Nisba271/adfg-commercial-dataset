@@ -1,0 +1,130 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      12,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      11,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      22,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      18,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      48,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      42,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      84,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      36,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      24,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      2013,
+      "January, 1 2013 0:00:00",
+      7,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "2013",
+    "totalRecords": 12,
+    "totalCount": 310,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2013-12-31T00:00:00"
+  }
+}

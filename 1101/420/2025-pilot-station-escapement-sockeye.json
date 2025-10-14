@@ -1,0 +1,238 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      0,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      93,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      172,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      168,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      388,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      601,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      102,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      159,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      150,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      213,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      594,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      623,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      795,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      83,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      43,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      175,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      33,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      26,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      54,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      92,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      510,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      72,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      79,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ],
+    [
+      2025,
+      "January, 1 2025 0:00:00",
+      90,
+      420,
+      1101,
+      "Pilot Station",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "420",
+    "year": "2025",
+    "totalRecords": 24,
+    "totalCount": 5315,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2025-12-31T00:00:00"
+  }
+}

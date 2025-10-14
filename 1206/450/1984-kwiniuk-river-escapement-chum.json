@@ -1,0 +1,328 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      0,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      2,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      33,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      20,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      273,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      871,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      2220,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1933,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1502,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      2324,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      5886,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      2626,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      5092,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      5354,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      2291,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1421,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      3835,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1297,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      840,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      5851,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      6888,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1442,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      801,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1234,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      475,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      366,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      1225,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      40,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      24,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      150,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      216,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      15,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      175,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ],
+    [
+      1984,
+      "January, 1 1984 0:00:00",
+      72,
+      450,
+      1206,
+      "Kwiniuk River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "450",
+    "year": "1984",
+    "totalRecords": 34,
+    "totalCount": 56794,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1984-12-31T00:00:00"
+  }
+}

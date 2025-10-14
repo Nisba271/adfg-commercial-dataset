@@ -1,0 +1,166 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      11,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      400,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      852,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      589,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      306,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      557,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      579,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      242,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      108,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      208,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      239,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      82,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      121,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      75,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      51,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      113,
+      420,
+      1204,
+      "Glacial Lake",
+      "Sockeye"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1204,
+    "species_id": "420",
+    "year": "2007",
+    "totalRecords": 16,
+    "totalCount": 4533,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

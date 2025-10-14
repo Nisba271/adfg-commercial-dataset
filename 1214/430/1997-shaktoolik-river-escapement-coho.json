@@ -1,0 +1,274 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      0,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      63,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      60,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      52,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      9,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      112,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      207,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      30,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      85,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      73,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      69,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      249,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      229,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      195,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      268,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      234,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      114,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      147,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      165,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      118,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      347,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      323,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      359,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      395,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      244,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      78,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      260,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ],
+    [
+      1997,
+      "January, 1 1997 0:00:00",
+      380,
+      430,
+      1214,
+      "Shaktoolik River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "430",
+    "year": "1997",
+    "totalRecords": 28,
+    "totalCount": 4865,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1997-12-31T00:00:00"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      0,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      1,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      2,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      3,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      36,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      6,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      5,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      35,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      37,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      26,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      22,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      11,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ],
+    [
+      1974,
+      "January, 1 1974 0:00:00",
+      7,
+      410,
+      1210,
+      "North River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1210,
+    "species_id": "410",
+    "year": "1974",
+    "totalRecords": 13,
+    "totalCount": 191,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1974-12-31T00:00:00"
+  }
+}

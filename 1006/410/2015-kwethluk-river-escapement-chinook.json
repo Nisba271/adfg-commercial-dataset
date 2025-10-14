@@ -1,0 +1,526 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      0,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      4,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      7,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      12,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      21,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      28,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      6,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      15,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      39,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      56,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      92,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      16,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      65,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      408,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      300,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      275,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      306,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      414,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      328,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      314,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      87,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      67,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      154,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      150,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      321,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      138,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      81,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      362,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      510,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      229,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      388,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      753,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      99,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      193,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      38,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      66,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      535,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      191,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      245,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      94,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      130,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      54,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      55,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      17,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      42,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      44,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      18,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      20,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      9,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      50,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      10,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      3,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      2,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      13,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      5,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ],
+    [
+      2015,
+      "January, 1 2015 0:00:00",
+      1,
+      410,
+      1006,
+      "Kwethluk River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1006,
+    "species_id": "410",
+    "year": "2015",
+    "totalRecords": 56,
+    "totalCount": 7880,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2015-12-31T00:00:00"
+  }
+}

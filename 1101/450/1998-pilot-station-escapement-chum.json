@@ -1,0 +1,886 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      850,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      674,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      852,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2585,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3470,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3436,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1392,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1224,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1229,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3729,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3322,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1015,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1145,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1412,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6673,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      7167,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5941,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3267,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2437,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8076,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      7258,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      14006,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      18348,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      14502,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5794,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4482,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5493,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      14119,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      20683,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      23256,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      13925,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9983,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      7679,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8521,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8930,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      19411,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      16642,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9169,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      7210,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6945,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4806,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2921,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2721,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2676,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2123,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1921,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2571,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      12448,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      19242,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      13365,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      6794,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4181,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3201,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1030,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1134,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1205,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1763,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1581,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1582,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      1948,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2932,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4795,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4108,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4971,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3320,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2962,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3915,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3766,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8652,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      33993,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      24119,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      48487,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      69912,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      41594,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      19587,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      14258,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      33571,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      85722,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      69444,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      67136,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      43044,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      22916,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      19480,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      8276,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      5563,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      22641,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      40015,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      33240,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      26145,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      20396,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      9809,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      3776,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      4703,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2980,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2156,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ],
+    [
+      1998,
+      "January, 1 1998 0:00:00",
+      2274,
+      450,
+      1101,
+      "Pilot Station",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1101,
+    "species_id": "450",
+    "year": "1998",
+    "totalRecords": 96,
+    "totalCount": 1200123,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1998-12-31T00:00:00"
+  }
+}

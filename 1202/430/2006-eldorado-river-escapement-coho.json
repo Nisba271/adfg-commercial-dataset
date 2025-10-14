@@ -1,0 +1,85 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      0,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      2,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      3,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      4,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      8,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      17,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ],
+    [
+      2006,
+      "January, 1 2006 0:00:00",
+      5,
+      430,
+      1202,
+      "Eldorado River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "430",
+    "year": "2006",
+    "totalRecords": 7,
+    "totalCount": 39,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2006-12-31T00:00:00"
+  }
+}

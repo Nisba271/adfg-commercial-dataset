@@ -1,0 +1,67 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      0,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      12,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      120,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      942,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ],
+    [
+      2019,
+      "January, 1 2019 0:00:00",
+      2070,
+      430,
+      1203,
+      "Fish River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1203,
+    "species_id": "430",
+    "year": "2019",
+    "totalRecords": 5,
+    "totalCount": 3144,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2019-12-31T00:00:00"
+  }
+}

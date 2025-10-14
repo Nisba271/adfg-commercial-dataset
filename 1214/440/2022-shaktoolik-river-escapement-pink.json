@@ -1,0 +1,292 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      0,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      24,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      60,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      51,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      123,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      999,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3837,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      2877,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3624,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      25899,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      38868,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      80235,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      72885,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      58176,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      77088,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      106020,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      69270,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      66762,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      104400,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      214860,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      143517,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      113892,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      17748,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      64416,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      47346,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      37941,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      47520,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      4248,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ],
+    [
+      2022,
+      "January, 1 2022 0:00:00",
+      3927,
+      440,
+      1214,
+      "Shaktoolik River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1214,
+    "species_id": "440",
+    "year": "2022",
+    "totalRecords": 30,
+    "totalCount": 1406616,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2022-12-31T00:00:00"
+  }
+}

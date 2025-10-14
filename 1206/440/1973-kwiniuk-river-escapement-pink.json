@@ -1,0 +1,301 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      331,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      523,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      228,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      229,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      141,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      166,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      192,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      94,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      86,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      259,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1339,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      66,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      77,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1198,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      189,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      2161,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      255,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1247,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      763,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      3325,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      906,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1210,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      3889,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      2951,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      6726,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      3130,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      2113,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      418,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1917,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      1898,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ],
+    [
+      1973,
+      "January, 1 1973 0:00:00",
+      117,
+      440,
+      1206,
+      "Kwiniuk River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1206,
+    "species_id": "440",
+    "year": "1973",
+    "totalRecords": 31,
+    "totalCount": 38144,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1973-12-31T00:00:00"
+  }
+}

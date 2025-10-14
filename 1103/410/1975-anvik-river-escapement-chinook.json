@@ -1,0 +1,193 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      2,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      1,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      14,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      28,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      13,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      8,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      9,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      15,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      17,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      11,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      38,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      16,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      18,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      36,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      10,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      46,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      70,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      40,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ],
+    [
+      1975,
+      "January, 1 1975 0:00:00",
+      43,
+      410,
+      1103,
+      "Anvik River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1103,
+    "species_id": "410",
+    "year": "1975",
+    "totalRecords": 19,
+    "totalCount": 435,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1975-12-31T00:00:00"
+  }
+}

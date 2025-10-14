@@ -1,0 +1,490 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      17,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      13,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      192,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      178,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      538,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      865,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      702,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1259,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1668,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1730,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1125,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1937,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2976,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1531,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1351,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2924,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2993,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2253,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2310,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2427,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      3336,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1929,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1485,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1268,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1762,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1251,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1698,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1371,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2923,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1625,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      2236,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1662,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1889,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1537,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1323,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1003,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1306,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      1160,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      678,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      876,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      986,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      937,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      891,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      850,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      803,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      765,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      728,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      690,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      652,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ],
+    [
+      2010,
+      "January, 1 2010 0:00:00",
+      624,
+      450,
+      1003,
+      "Kanektok River",
+      "Chum"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1003,
+    "species_id": "450",
+    "year": "2010",
+    "totalRecords": 52,
+    "totalCount": 69236,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2010-12-31T00:00:00"
+  }
+}

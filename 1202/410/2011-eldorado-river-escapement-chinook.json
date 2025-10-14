@@ -1,0 +1,49 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      0,
+      410,
+      1202,
+      "Eldorado River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      1,
+      410,
+      1202,
+      "Eldorado River",
+      "Chinook"
+    ],
+    [
+      2011,
+      "January, 1 2011 0:00:00",
+      2,
+      410,
+      1202,
+      "Eldorado River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1202,
+    "species_id": "410",
+    "year": "2011",
+    "totalRecords": 3,
+    "totalCount": 3,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2011-12-31T00:00:00"
+  }
+}

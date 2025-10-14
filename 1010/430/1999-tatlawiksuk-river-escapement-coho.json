@@ -1,0 +1,418 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      0,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      1,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      2,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      9,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      5,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      31,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      33,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      48,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      53,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      63,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      68,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      85,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      90,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      105,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      109,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      127,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      130,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      143,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      144,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      103,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      88,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      158,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      97,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      181,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      171,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      93,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      184,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      239,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      170,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      140,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      190,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      193,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      30,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      35,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      303,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      81,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      99,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      82,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      51,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      26,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      32,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      18,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      56,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ],
+    [
+      1999,
+      "January, 1 1999 0:00:00",
+      17,
+      430,
+      1010,
+      "Tatlawiksuk River",
+      "Coho"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1010,
+    "species_id": "430",
+    "year": "1999",
+    "totalRecords": 44,
+    "totalCount": 4083,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1999-12-31T00:00:00"
+  }
+}

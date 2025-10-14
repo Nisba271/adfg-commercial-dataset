@@ -1,0 +1,310 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      0,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      1,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      2,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      4,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      10,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      15,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      12,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      22,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      85,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      40,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      13,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      28,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      55,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      71,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      117,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      53,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      25,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      32,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      47,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      38,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      8,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      24,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      27,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      16,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      46,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      67,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      44,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      9,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      7,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      5,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      6,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ],
+    [
+      1992,
+      "January, 1 1992 0:00:00",
+      3,
+      410,
+      1012,
+      "Tuluksak River",
+      "Chinook"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1012,
+    "species_id": "410",
+    "year": "1992",
+    "totalRecords": 32,
+    "totalCount": 932,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "1992-12-31T00:00:00"
+  }
+}

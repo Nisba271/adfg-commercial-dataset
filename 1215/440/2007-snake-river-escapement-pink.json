@@ -1,0 +1,400 @@
+{
+  "COLUMNS": [
+    "YEAR",
+    "COUNTDATE",
+    "FISHCOUNT",
+    "SPECIESID",
+    "COUNTLOCATIONID",
+    "COUNTLOCATION",
+    "SPECIES"
+  ],
+  "DATA": [
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      0,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      6,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      3,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      80,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      62,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      10,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      117,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      75,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      47,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      153,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      443,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      529,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      719,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      482,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      92,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      128,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      110,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      64,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      127,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      46,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      44,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      58,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      276,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      129,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      192,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      95,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      38,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      60,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      26,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      18,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      28,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      19,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      13,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      15,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      27,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      5,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      20,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      12,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      2,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      1,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      9,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ],
+    [
+      2007,
+      "January, 1 2007 0:00:00",
+      7,
+      440,
+      1215,
+      "Snake River",
+      "Pink"
+    ]
+  ],
+  "metadata": {
+    "location_id": 1215,
+    "species_id": "440",
+    "year": "2007",
+    "totalRecords": 42,
+    "totalCount": 4387,
+    "source": "ADFG Commercial Dataset",
+    "last_updated": "2007-12-31T00:00:00"
+  }
+}

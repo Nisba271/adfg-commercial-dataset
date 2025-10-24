@@ -190,7 +190,7 @@ When using this data, please attribute:
 
 ---
 
-**Last Updated**: January 16, 2025  
+**Last Updated**: October 10, 2025  
 **Version**: AFCA v1.0.1  
 **Data Source**: Alaska Department of Fish & Game (ADF&G)  
 **Framework**: AFCA Location Codes Framework  

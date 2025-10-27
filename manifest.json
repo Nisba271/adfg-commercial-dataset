@@ -4,7 +4,7 @@
     "generated": "2025-10-14T09:49:16.449438",
     "generation_timestamp": "2025-10-14T09:49:16.449444",
     "total_files": 2605,
-    "format": "organized_by_location_species_year",
+    "format": "organized_by_location_year_species",
     "repository": "alaskafishcounts/adfg-commercial-dataset",
     "description": "Alaska Fish Count App - Commercial Dataset",
     "source": "ADF&G Commercial Fish Counts",
@@ -7309,20 +7309,5 @@
         }
       }
     }
-  },
-  "patterns": {
-    "file_naming": "YYYY-location-name-escapement-species.json",
-    "directory_structure": "location_id/species_id/filename.json",
-    "data_format": "SPORT format with COLUMNS and DATA array"
-  },
-  "statistics": {
-    "total_files": 2605,
-    "total_locations": 48,
-    "total_species": 6,
-    "year_range": {
-      "start": 1965,
-      "end": 2025
-    },
-    "file_size_distribution": {}
   }
 }
